@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>GRAND ARCHIVE</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <meta http-equiv="refresh" content="5; URL=/Cir/Srednje-skole/KPKK-SC-4O13S" />
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <h1>
+                VUKINTOSH ARCHIVE &copy; 2022. - UPDATED 02.07.2022.
+            </h1>
+            <p id="request">
+            </p>
+        </div>
+    </div>
+    <style>
+        @font-face {
+            font-family: VUKINTOSH GOVT;
+            src: url(/Cir/Srednje-skole/font.otf);
+        }
+        *{
+            font-family: VUKINTOSH GOVT;
+            text-align: center;
+            margin-top: 125px;
+            
+        }
+
+    </style>
+</body>
+</html>

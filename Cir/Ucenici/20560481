@@ -1,0 +1,1733 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9"> <![endif]-->
+<!--[if IE  ]>     <html class="ie gt9"> <!--<![endif]-->
+<!--[if !IE]><!--> <html xmlns="http://www.w3.org/1999/xhtml">             <!--<![endif]--> 
+
+<html xmlns="http://www.w3.org/1999/xhtml" class="visina">
+<head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta charset="utf-8" /><meta name="author" content="Evolution Online EON d.o.o. - www.eonsystem.com" /><meta name="viewport" content="width=device-width" /><link href="/css/CSSSkeleton.min.css" rel="stylesheet" /><link href="/css/Animate.min.css" rel="stylesheet" /><link href="/css/style1.min.css" rel="stylesheet" /><link href="/fonts/ico2/style_ico.min.css" rel="stylesheet" />
+    
+    <script type="text/javascript">
+        var oldieCheck = Boolean(document.getElementsByTagName('html')[0].className.match(/\lte9\s/g));
+        if (!oldieCheck) {
+            document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"><\/script>');
+        } else {
+            document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"><\/script>');
+        }
+    </script>
+    <script src="/js/eUtils.min.js"></script>
+    
+    
+    <meta name="keywords" content="upis, upis u srednje skole, upis u srednje skole srbije, rezultati mature, rezultati zavrsnog ispita, završni ispit, mala matura">
+    <meta name="description" content="Upis u srednje škole, zvanični sajt Ministarstva prosvete i nauke Republike Srbije">
+    <title>Podaci o ucenicima - UPIS U SREDNJE ŠKOLE SRBIJE 2020/2021</title>
+  
+
+    <!--[if IE 8]><link href="/css/ie8.css" rel="stylesheet" /><![endif]-->
+    <!--[if IE 9]><link href="/css/ie9.css" rel="stylesheet" /><![endif]-->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/ico/apple-icon-57x57.png" /><link rel="apple-touch-icon" sizes="60x60" href="/ico/apple-icon-60x60.png" /><link rel="apple-touch-icon" sizes="72x72" href="/ico/apple-icon-72x72.png" /><link rel="apple-touch-icon" sizes="76x76" href="/ico/apple-icon-76x76.png" /><link rel="apple-touch-icon" sizes="114x114" href="/ico/apple-icon-114x114.png" /><link rel="apple-touch-icon" sizes="120x120" href="/ico/apple-icon-120x120.png" /><link rel="apple-touch-icon" sizes="144x144" href="/ico/apple-icon-144x144.png" /><link rel="apple-touch-icon" sizes="152x152" href="/ico/apple-icon-152x152.png" /><link rel="apple-touch-icon" sizes="180x180" href="/ico/apple-icon-180x180.png" /><link rel="icon" type="image/png" sizes="192x192" href="/ico/android-icon-192x192.png" /><link rel="icon" type="image/png" sizes="32x32" href="/ico/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="96x96" href="/ico/favicon-96x96.png" /><link rel="icon" type="image/png" sizes="16x16" href="/ico/favicon-16x16.png" /><link rel="manifest" href="/ico/manifest.json" /><meta name="msapplication-TileColor" content="#ffffff" /><meta name="msapplication-TileImage" content="/ico/ms-icon-144x144.png" /><meta name="theme-color" content="#ffffff" /><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" /><title>
+
+</title></head>
+<body class="visina Status1" >
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-4196990-5', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+
+        //function fCaptcha(el,funkcija, argument1, argument2, argument3) {
+        //    if (el != 0) {
+        //        $('.row_captch').removeClass('invisible');
+        //        $('body').css('overflow', 'hidden');
+        //        var captchaContainer = null;
+        //        var loadCaptcha = function () {
+        //            captchaContainer = grecaptcha.render('captcha_container', {
+        //                'sitekey': '6LfHWyQUAAAAAMNpeNkLk3uPZyWc6362BpXY-wrz',
+        //                'lang': 'sr',
+        //                'callback': function (response) {
+
+        //                    funkcija(argument1, argument2, argument3)
+        //                    $('.row_captch').addClass('invisible');
+        //                }
+        //            });
+        //        };
+        //        loadCaptcha();
+        //    }
+        //    else { funkcija(argument1, argument2, argument3) }
+
+        //}
+        //function otkazi_cap() {
+        //    //$('.row_captch').addClass('invisible'); 
+        //    //$("#captcha").removeClass("disabled-element");
+        //    location.reload();
+        //}
+  </script> 
+
+    <div class="cont media100">       
+        <div class="cont header bgd1 animated fixednav fadeInDown">
+            <div class="row navJezik ">
+                <div class="rowInner">
+                    <div class="six columns inside">
+                       <a href="/Pocetna" class="Status1Invisible">Početna strana</a>
+                       <a href="/Pocetna" class="Status2Invisible">Почетна страна</a>
+                    </div>
+                    <div id="jez_ik_1" class="six columns txtright inside">
+                        <a class="padd_10 jezik cir" href="?PromenaJezika=1">Ћирилица</a>
+                        <a class="padd_10 jezik lat" href="?PromenaJezika=2">Latinica</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row bgd1 ">
+                <div class="rowInner">
+                    <div class="meni bt1">
+                        <a href="/Ucenici" class="Status1Invisible">Podaci o učenicima</a>
+                        <a href="/Ucenici" class="Status2Invisible">Подаци о ученицима</a>
+                    </div>
+                     <div class="meni bt2">
+                           <a href="/Osnovne-skole-pretraga" class="Status1Invisible">Osnovne škole</a>
+                           <a href="/Osnovne-skole-pretraga" class="Status2Invisible">Основне школе</a>                       
+                    </div>
+                     <div class="meni bt3">
+                           <a href="/Srednje-skole-pretraga" class="Status1Invisible">Srednje škole i obrazovni profili</a>
+                           <a href="/Srednje-skole-pretraga" class="Status2Invisible">Средње школе и образовни профили</a>                    
+                    </div>
+                     <div class="meni bt4">
+                         <a href="/Prethodna-godina-pretraga" class="Status1Invisible">Prethodna godina</a>
+                         <a href="/Prethodna-godina-pretraga" class="Status2Invisible">Претходна година</a>                   
+                    </div>
+                     <div class="meni bt5">
+                          <a href="/Dokumenta" class="Status1Invisible">Dokumenta</a>
+                          <a href="/Dokumenta" class="Status2Invisible">Документа</a>                       
+                    </div>
+                     <div class="meni bt6">
+                          <a href="/Pravilnici" class="Status1Invisible">Pravilnik</a>
+                          <a href="/Pravilnici" class="Status2Invisible">Правилник</a>                       
+                    </div>
+                     <div class="meni bt7">
+                          <a href="/Kontakt" class="Status1Invisible">Kontakt</a>
+                          <a href="/Kontakt" class="Status2Invisible">Kонтакт</a>                      
+                    </div>
+                </div>
+            </div>            
+        </div>       
+        <div class="mobileheader bgd1  animated fadeInDown">                         
+                         <div class="mobilenavbutton">
+                              <a class="buttonmob icon-menu" id="dugme" href="#"></a>                       
+                         </div>
+                         <div id="jez_ik_2" class="mob_a txtright paddright">                          
+                              <a class="padd_10 jezik cir" href="?PromenaJezika=1&Br=@br!">ЋИР</a>
+                             <a class="padd_10 jezik lat" href="?PromenaJezika=2&Br=@br!">LAT</a>                            
+                         </div>
+            
+         </div>
+         <div class="mobilenavopen">
+                           <ul class="mobile">
+                               <li class="txtright"><a class="menumobileclose icon-cross" id="closenavigation" href="#"></a></li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="/Pocetna">Početna strana</a>
+                                   <a class="menumobile Status2Invisible" href="/Pocetna">Почетна страна</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="/Ucenici">Podaci o učenicima</a>
+                                   <a class="menumobile Status2Invisible" href="/Ucenici">Подаци о ученицима</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="/Osnovne-skole-pretraga">Osnovne škole</a>
+                                   <a class="menumobile Status2Invisible" href="/Osnovne-skole-pretraga">Основне школе</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="/Srednje-skole-pretraga">Srednje škole i obrazovni profili</a>
+                                   <a class="menumobile Status2Invisible" href="/Srednje-skole-pretraga">Средње школе и образовни профили</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="/Prethodna-godina-pretraga">Prethodna godina</a>
+                                   <a class="menumobile Status2Invisible" href="/Prethodna-godina-pretraga">Претходна година</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="/Dokumenta">Dokumenta</a>
+                                   <a class="menumobile Status2Invisible" href="/Dokumenta">Документа</a>
+                               </li>
+
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="/Pravilnici">Pravilnici</a>
+                                   <a class="menumobile Status2Invisible" href="/Pravilnici">Правилници</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="/Kontakt">Kontakt</a>
+                                   <a class="menumobile Status2Invisible" href="/Kontakt">Kонтакт</a>
+                               </li>
+                          
+                           </ul>
+        </div>
+    </div>
+
+
+
+    <script >
+        var glavniMeni = [];
+
+        $(function () {
+
+            $('body').eInit();
+            $('.pozadina_css').css('min-height', $(window).height() - ($('.content').outerHeight() - $('.content').height()) - $('.za_visinu').outerHeight());
+        });
+
+        $(window).resize(function () { onResize() });
+
+        var onResize = function () { $('.pozadina_css').css('min-height', $(window).height() - ($('.content').outerHeight() - $('.content').height()) - $('.za_visinu').outerHeight()); }
+    </script>
+
+    <form id="form1" class="visina">
+        <div class="content relative">
+            
+            
+
+    <div class="cont podaci PodaciUcenik visina POD_Osmi_1 POD_Zavrsni_1 POD_Zelje_1 POD_Nagrade_1 POD_Konkurs_1 POD_Zelje2_1 POD_Upisani1_1 POD_Upisani2_1  " > 
+        <div class="row bgd2 pretragaUcenik za_visinu">
+            <div class="rowInner paddtb">
+                <div class="four txtright columns padlr">
+                    <p class="pretraga Status1Invisible" >Nova pretraga</p> 
+                    <p class="pretraga Status2Invisible" >Нова претрага</p>   
+                </div>
+                <div class="four columns ">
+                    <div class="ten margauto">
+                        <input dbf="Sifra"  autocomplete="off" class="input txtcenter Sifra" maxlength="8" reg="^[0-9]{8}$" /> 
+                    </div>
+                </div>
+                <div class="four columns">
+                    <div class="btn dugme1">
+                        <a class="Status1Invisible" href="javascript:void(0);" onclick="IspisiUcenika();">Prikaži</a>
+                        <a class="Status2Invisible" href="javascript:void(0);" onclick="IspisiUcenika();">Прикажи</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="prazan_grid1 pozadinasekcije pozadina_css visina">
+                <div class="rowInner uputstvo paddtb">
+                    
+                    
+                </div>
+        </div>
+        <div id="MainContent_grid_ucenik" class="prazan_grid2">   
+            <div class="row sekcija2 txtcenter">
+                 <h2 class="Status1Invisible naslov pad1em">Podaci o učeniku</h2>
+                 <h2 class="Status2Invisible naslov pad1em">Подаци о ученику</h2>
+            </div>
+            <div class="row pozadinasekcije">
+                  <div class="row pad1em">
+                        <div class="rowInner ">
+                            <div class="row Ucenik">
+                                <div class="ten columns Mediaucenik">
+                                    <div class="row pad1em sifrauc">
+                                        <div class="two columns">
+                                            <label class="Status1Invisible naziv">Šifra učenika:</label>
+                                            <label class="Status2Invisible naziv">Шифра ученика:</label>
+                                        </div>
+                                        <div class="тенcolumns">
+                                            <span class="forma noinput" dbf="IDUCenik"></span> 
+                                            <label class="Status1Invisible naziv neBlizanackoDeteInvisible">, evidentiran kao blizanačko dete.</label>
+                                            <label class="Status2Invisible naziv neBlizanackoDeteInvisible">, евидентиран као близаначко дете.</label>
+                                        </div>
+                                    </div>
+                                    <div class="row pad1em sifrauc neBlizanackoDeteInvisible">
+                                        <div class="twelve columns font08">
+                                            <label class="Status1Invisible naziv">U prvi krug raspodele ulazi sa bodovima bolje rangiranog blizanca -&nbsp;</label>
+                                            <label class="Status2Invisible naziv">У први круг расподеле улази са бодовима боље рангираног близанца -&nbsp;</label>
+                                            <span class="forma noinput " dbf="blizanac"></span>
+                                            <label class="Status1Invisible naziv NemaDrugeZeljeUkloni drugiKrugSopstveniBodoviUkloni">U drugi krug raspodele ulazi sa bodovima bolje rangiranog blizanca -&nbsp;</label>
+                                            <label class="Status2Invisible naziv NemaDrugeZeljeUkloni drugiKrugSopstveniBodoviUkloni">У други круг расподеле улази са бодовима боље рангираног близанца -&nbsp;</label>
+                                            <span class="forma noinput NemaDrugeZeljeUkloni " dbf="blizanac2"></span>
+                                            <label class="Status1Invisible naziv NemaDrugeZeljeUkloni drugiKrugTudjiBodoviUkloni ">U drugi krug raspodele učenik ulazi sa sopstvenim bodovima </label>
+                                            <label class="Status2Invisible naziv NemaDrugeZeljeUkloni drugiKrugTudjiBodoviUkloni ">У други круг расподеле ученик улази са сопственим бодовима</label>
+                                        </div>
+                                    </div>
+
+                                    <div class="row pad1em osnskola">
+                                            <div class="two columns">
+                                                <label class="Status1Invisible naziv">Osnovna škola:</label>
+                                                <label class="Status2Invisible naziv">Основна школа:</label>
+                                            </div>
+                                            <div class="ten columns">
+                                                <span class="forma noinput" dbf="SKola"></span>
+                                            </div>
+                                    </div>
+                                    <div class="row pad1em statusuc">
+                                            <div class="two columns">
+                                                <label class="Status1Invisible naziv">Status učenika:</label>
+                                                <label class="Status2Invisible naziv">Статус ученика:</label>
+                                            </div>
+                                            <div class="ten columns">
+                                                <span class="forma noinput" dbf="Status"></span>
+                                            </div>
+                                    </div>
+                                    <div id="MainContent_upisan_show" class="upisan_show siva">
+                                           <div class="row pad1em">
+                                                    <div class="two columns txtcenter">
+                                                        <label class="Status1Invisible naziv"></label>
+                                                        <label class="Status2Invisible naziv"></label>
+                                                    </div>
+                                                    <div class="ten columns">
+                                                        <span class="forma nebold" dbf="UpisanNaOpis"></span>
+                                                    </div>
+                                            </div>
+                                     </div>
+                                    
+                                    
+                                  
+                                </div>
+                                <div class="two columns padlevo">
+                                    <div class="rezultat narandza txtcenter">
+                                            <p class="Status1Invisible brojbodova" >Broj bodova</p> 
+                                            <p class="Status2Invisible  brojbodova" >Број бодова</p>
+                                            <span dbf="BodovaUkupno" class="bodovi noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible blizanackoDeteInvisible drugiKrugTudjiBodoviUkloni"></span>  
+                                            <span dbf="NajboljiBlizanacBodovi" class="bodovi noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible neBlizanackoDeteInvisible drugiKrugSopstveniBodoviUkloni drugiKrugTudjiBodoviUkloni"></span>  
+                                            <span dbf="NajboljiBlizanacBodovi2" class="bodovi noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible neBlizanackoDeteInvisible NemaDrugeZeljeUkloni drugiKrugSopstveniBodoviUkloni NemaDrugeZeljeUkloni"></span>  
+                                            <span dbf="BodovaUkupno" class="bodovi noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible drugiKrugTudjiBodoviUkloni NemaDrugeZeljeUkloni neBlizanackoDeteInvisible"></span>  
+                                            <span class="bodovi noinput POD_Zavrsni_1Invisible "> - - -</span>  
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row padding45top Detalji">
+                                    <div class="six columns paddesno ">
+                                        <div class="sekcija">
+                                            <div class="naslovsekcije pad1em">
+                                                <label class="Status1Invisible ">Bodovi učenika:</label>
+                                                <label class="Status2Invisible ">Бодови ученика:</label>
+                                            </div>
+                                            <div class="telosekcije ">
+                                                <div class="druginivo pad1em row">
+                                                    <div class="ten columns">
+                                                        <label class="Status1Invisible sixI">Osnovna škola:</label>
+                                                        <label class="Status2Invisible sixI">Основна школа:</label>
+                                                        <div class="vididetalje btn dugme7">
+                                                            <a href="javascript:void(0);" class="Status1Invisible" onclick="pravilnik(3);">pravilnik</a>
+                                                            <a href="javascript:void(0);" class="Status2Invisible" onclick="pravilnik(3);">правилник</a>
+                                                        </div>
+                                                        <span class="twoI inline-block noinput txtright right" dbf="BodoviSkola"></span>
+                                                    </div>
+                                                    <div class="two columns">
+                                                    </div>
+                                                </div>
+                                                <div class="trecinivo pad1em row prikaz">
+                                                    <div class="ten columns">
+                                                        <label class="Status1Invisible sixI">Šesti razred:</label>
+                                                        <label class="Status2Invisible sixI">Шести разред:</label>
+                                                        <span class="right noinput" dbf="Bodova6"></span>
+                                                    </div>
+                                                    <div class="two columns txtright">
+                                                        <div class="vididetalje btn dugme4 vidi">
+                                                            <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('Sesti',$(this));">vidi »</a>
+                                                            <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('Sesti',$(this));">види »</a>
+                                                            <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('Sesti',$(this));"></a>
+                                                        </div>
+                                                        <div class="zatvoridetalje btn dugme4 vidi">
+                                                            <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('Sesti',$(this));">«</a>
+                                                            <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('Sesti',$(this));">
+                                                               
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="telosekcije vidisekcija Sesti" >
+                                                        <div class="prvinivo pad1em row" >
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible" >Ocene na kraju šestog razreda</label>
+                                                                <label class="Status2Invisible" >Оцене на крају шестог разреда</label>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row " >
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible" dbf="Maternji"></label>
+                                                                <label class="Status2Invisible" dbf="Maternji"></label>
+                                                                <span class="right noinput" dbf="drugiMaternjiJezik"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row " >
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Srpski jezik</label>
+                                                                <label class="Status2Invisible">Српски језик</label>
+                                                                <span class="right noinput" dbf="maternjiJezik"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible" dbf="PrviStraniJezik"></label>
+                                                                <label class="Status2Invisible" dbf="PrviStraniJezik"></label>
+                                                                <span class="right noinput" dbf="prviStrani"></span>                                  
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Likovno vaspitanje</label>
+                                                                <label class="Status2Invisible">Ликовно васпитање</label>
+                                                                <span class="noinput right" dbf="likovno"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Muzičko vaspitanje</label>
+                                                                    <label class="Status2Invisible">Музичко</label>
+                                                                    <span class="noinput right" dbf="muzicko"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Istorija</label>
+                                                                    <label class="Status2Invisible">Историја</label>
+                                                                    <span class="noinput right" dbf="istorija"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Geografija</label>
+                                                                    <label class="Status2Invisible">Географија</label>
+                                                                    <span class="noinput right" dbf="geografija"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Fizika</label>
+                                                                    <label class="Status2Invisible">Физика</label>
+                                                                    <span class="noinput right" dbf="fizika"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Matematika</label>
+                                                                    <label class="Status2Invisible">Математика</label>
+                                                                    <span class="noinput right" dbf="matematika"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Biologija</label>
+                                                                    <label class="Status2Invisible">Биологија</label>
+                                                                    <span class="noinput right" dbf="biologija"></span>   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Tehničko obrazovanje</label>
+                                                                    <label class="Status2Invisible">Техничко образовање</label>
+                                                                    <span class="noinput right" dbf="tehnicko"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Fizičko vaspitanje</label>
+                                                                    <label class="Status2Invisible">Физичко васпитање</label>
+                                                                    <span class="noinput right" dbf="fizicko"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible" dbf="DrugiStraniJezik">Italijanski jezik</label>
+                                                                    <label class="Status2Invisible" dbf="DrugiStraniJezik">Италијански</label>
+                                                                    <span class="noinput right" dbf="drugiStrani"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Izabrani sport</label>
+                                                                    <label class="Status2Invisible">Изабрани спорт</label>
+                                                                    <span class="noinput right" dbf="izborniSport"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Vladanje</label>
+                                                                    <label class="Status2Invisible">Владање</label>
+                                                                    <span class="noinput right" dbf="vladanje"></span>
+                                                                </div>
+                                                        </div>                                                                          
+                                                        <div class="cetvrtinivo pad1em row ">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Postignuti uspeh</label>
+                                                                <label class="Status2Invisible">Постигнути успех</label>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Zbir ocena</label>
+                                                                <label class="Status2Invisible">Збир оцена</label>
+                                                                <span class="noinput right" dbf="ZbirOcena"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Broj ocena</label>
+                                                                <label class="Status2Invisible">Број оцена</label>
+                                                                <span class="noinput right" dbf="BrojOcena"></span>                                                  
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Prosek</label>
+                                                                <label class="Status2Invisible">Просек</label>
+                                                                <span class="noinput right" dbf="prosek6"></span>                                                    
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Broj bodova</label>
+                                                                <label class="Status2Invisible">Број бодова</label>
+                                                                <span class="noinput right" dbf="bod6"></span>                                                    
+                                                            </div>
+                                                        </div>                                                   
+                                                        <div class="trecinivo pad1em row ">
+                                                                <div class="twelve columns">
+                                                                <label class="Status1Invisible"></label>
+                                                                <label class="Status2Invisible"></label>
+                                                            </div>
+                                                        </div>                             
+                                                </div>
+                                                <div class="trecinivo pad1em row prikaz">
+                                                        <div class="ten columns">
+                                                            <label class="Status1Invisible">Sedmi razred:</label>
+                                                            <label class="Status2Invisible">Седми разред:</label>
+                                                            <span class="right noinput" dbf="Bodova7"></span>
+                                                        </div>
+                                                        <div class="two columns txtright">
+                                                             <div class="vididetalje btn dugme4 vidi">
+                                                                <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('Sedmi',$(this));">vidi »</a>
+                                                                <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('Sedmi', $(this));">види »</a>
+                                                                <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('Sedmi',$(this));"></a>
+                                                            </div>
+                                                             <div class="zatvoridetalje btn dugme4 vidi">
+                                                                <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('Sedmi',$(this));">«</a>
+                                                               <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('Sedmi',$(this));">
+                                                                   
+                                                                </a>
+                                                            </div>                                                        
+                                                        </div>
+                                                </div>
+                                                <div class="telosekcije vidisekcija Sedmi" >
+                                                        <div class="prvinivo pad1em row" >
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible" >Ocene na kraju sedmog razreda</label>
+                                                                <label class="Status2Invisible" >Оцене на крају седмог разреда</label>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row " >
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible" dbf="Maternji"></label>
+                                                                <label class="Status2Invisible" dbf="Maternji"></label>
+                                                                <span class="right noinput" dbf="drugiMaternjiJezik"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row " >
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Srpski jezik</label>
+                                                                <label class="Status2Invisible">Српски језик</label>
+                                                                <span class="right noinput" dbf="maternjiJezik"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible" dbf="PrviStraniJezik">Engleski jezik</label>
+                                                                <label class="Status2Invisible" dbf="PrviStraniJezik">Енглески језик</label>
+                                                                <span class="right noinput" dbf="prviStrani"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Likovno vaspitanje</label>
+                                                                    <label class="Status2Invisible">Ликовно васпитање</label>
+                                                                    <span class="noinput right" dbf="likovno"></span>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Muzičko vaspitanje</label>
+                                                                    <label class="Status2Invisible">Музичко</label>
+                                                                    <span class="noinput right" dbf="muzicko"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Istorija</label>
+                                                                    <label class="Status2Invisible">Историја</label>
+                                                                    <span class="noinput right" dbf="istorija"></span>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Geografija</label>
+                                                                    <label class="Status2Invisible">Географија</label>
+                                                                    <span class="noinput right" dbf="geografija"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Fizika</label>
+                                                                    <label class="Status2Invisible">Физика</label>
+                                                                    <span class="noinput right" dbf="fizika"></span>                                                    
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Matematika</label>
+                                                                    <label class="Status2Invisible">Математика</label>
+                                                                    <span class="noinput right" dbf="matematika"></span>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Biologija</label>
+                                                                    <label class="Status2Invisible">Биологија</label>
+                                                                    <span class="noinput right" dbf="biologija"></span>                                                    
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Hemija</label>
+                                                                    <label class="Status2Invisible">Хемија</label>
+                                                                    <span class="noinput right" dbf="hemija"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Tehničko obrazovanje</label>
+                                                                    <label class="Status2Invisible">Техничко образовање</label>
+                                                                    <span class="noinput right" dbf="tehnicko"></span>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Fizičko vaspitanje</label>
+                                                                    <label class="Status2Invisible">Физичко васпитање</label>
+                                                                    <span class="noinput right" dbf="fizicko"></span>                                                    
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible" dbf="DrugiStraniJezik"></label>
+                                                                    <label class="Status2Invisible" dbf="DrugiStraniJezik"></label>
+                                                                    <span class="noinput right" dbf="drugiStrani"></span>                                                    
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Izabrani sport</label>
+                                                                    <label class="Status2Invisible">Изабрани спорт</label>
+                                                                    <span class="noinput right" dbf="izborniSport"></span>                                                    
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Vladanje</label>
+                                                                    <label class="Status2Invisible">Владање</label>
+                                                                    <span class="noinput right" dbf="vladanje"></span>                                                    
+                                                                </div>
+                                                        </div>                                                     
+                                                        <div class="cetvrtinivo pad1em row ">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Postignuti uspeh</label>
+                                                                    <label class="Status2Invisible">Постигнути успех</label>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Zbir ocena</label>
+                                                                <label class="Status2Invisible">Збир оцена</label>
+                                                                <span class="noinput right" dbf="ZbirOcena"></span>                                                   
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Broj ocena</label>
+                                                                <label class="Status2Invisible">Број оцена</label>
+                                                                <span class="noinput right" dbf="BrojOcena"></span>                                                   
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Prosek</label>
+                                                                <label class="Status2Invisible">Просек</label>
+                                                                <span class="noinput right" dbf="prosek7"></span>                                                    
+                                                            </div>
+                                                        </div>                                                   
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Broj bodova</label>
+                                                                    <label class="Status2Invisible">Број бодова</label>
+                                                                    <span class="noinput right" dbf="bod7"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible"></label>
+                                                                <label class="Status2Invisible"></label>
+                                                            </div>
+                                                        </div> 
+                                                </div>
+                                                <div class="trecinivo row pad1em prikaz">
+                                                        <div class="ten columns">
+                                                            <label class="Status1Invisible">Osmi razred:</label>
+                                                            <label class="Status2Invisible">Осми разред:</label>
+                                                            <span class="right noinput POD_Osmi_0Invisible" dbf="Bodova8"></span>
+                                                            <span class="right noinput POD_Osmi_1Invisible" >- - -</span>
+                                                        </div>
+                                                        <div class="two columns txtright">
+                                                             <div class="vididetalje btn dugme4 vidi">
+                                                                 <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('Osmi',$(this));">vidi »</a>
+                                                                <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('Osmi',$(this));">види »</a>
+                                                                 <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('Osmi',$(this));"></a>
+                                                            </div>
+                                                             <div class="zatvoridetalje btn dugme4 vidi">
+                                                                <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('Osmi',$(this));">«</a>
+                                                                <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('Osmi',$(this));">
+                                                                   
+                                                                </a>
+                                                            </div>                                                       
+                                                        </div>
+                                                </div>
+                                                <div class="telosekcije vidisekcija Osmi" >
+                                                        <div class="prvinivo pad1em row" >
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible" >Ocene na kraju osmog razreda</label>
+                                                                <label class="Status2Invisible" >Оцене на крају осмог разреда</label>
+                                                            </div>
+                                                        </div>                                                       
+                                                        <div class="POD_Osmi_1Invisible trecinivo pad1em">
+                                                            <label class="Status1Invisible"> Podaci o ocenama osmog razreda još nisu obrađeni i ne nalaze se u bazi. </label>
+                                                            <label class="Status2Invisible"> Подаци о оценама осмог разреда још нису обрађени и не налазе се у бази. </label>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi" >
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible" dbf="Maternji"></label>
+                                                                <label class="Status2Invisible" dbf="Maternji"></label>
+                                                                <span class="right noinput" dbf="drugiMaternjiJezik"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi" >
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Srpski jezik</label>
+                                                                <label class="Status2Invisible">Српски језик</label>
+                                                                <span class="right noinput" dbf="maternjiJezik"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible" dbf="PrviStraniJezik">Engleski jezik</label>
+                                                                <label class="Status2Invisible" dbf="PrviStraniJezik">Енглески језик</label>
+                                                                <span class="right noinput" dbf="prviStrani"></span>                                                    
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Likovno vaspitanje</label>
+                                                                <label class="Status2Invisible">Ликовно васпитање</label>
+                                                                <span class="noinput right" dbf="likovno"></span>                                                    
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Muzičko vaspitanje</label>
+                                                                    <label class="Status2Invisible">Музичко</label>
+                                                                    <span class="noinput right" dbf="muzicko"></span>                                                    
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Istorija</label>
+                                                                    <label class="Status2Invisible">Историја</label>
+                                                                    <span class="noinput right" dbf="istorija"></span>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Geografija</label>
+                                                                    <label class="Status2Invisible">Географија</label>
+                                                                    <span class="noinput right" dbf="geografija"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Fizika</label>
+                                                                    <label class="Status2Invisible">Физика</label>
+                                                                    <span class="noinput right" dbf="fizika"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Matematika</label>
+                                                                    <label class="Status2Invisible">Математика</label>
+                                                                    <span class="noinput right" dbf="matematika"></span>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Biologija</label>
+                                                                    <label class="Status2Invisible">Биологија</label>
+                                                                    <span class="noinput right" dbf="biologija"></span>                                                    
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Hemija</label>
+                                                                    <label class="Status2Invisible">Хемија</label>
+                                                                    <span class="noinput right" dbf="hemija"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Tehničko obrazovanje</label>
+                                                                    <label class="Status2Invisible">Техничко образовање</label>
+                                                                    <span class="noinput right" dbf="tehnicko"></span>                                                 
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Fizičko vaspitanje</label>
+                                                                    <label class="Status2Invisible">Физичко васпитање</label>
+                                                                    <span class="noinput right" dbf="fizicko"></span>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible" dbf="DrugiStraniJezik"></label>
+                                                                    <label class="Status2Invisible" dbf="DrugiStraniJezik"></label>
+                                                                    <span class="noinput right" dbf="drugiStrani"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Izabrani sport</label>
+                                                                    <label class="Status2Invisible">Изабрани спорт</label>
+                                                                    <span class="noinput right" dbf="izbornisport"></span>                                                   
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Vladanje</label>
+                                                                    <label class="Status2Invisible">Владање</label>
+                                                                    <span class="noinput right" dbf="vladanje"></span>                                                  
+                                                                </div>
+                                                        </div>
+                                                        <div class="cetvrtinivo pad1em row oceneosmi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Postignuti uspeh</label>
+                                                                <label class="Status2Invisible">Постигнути успех</label>                                                   
+                                                            </div>
+                                                        </div>                                                   
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Zbir ocena</label>
+                                                                <label class="Status2Invisible">Збир оцена</label>
+                                                                <span class="noinput right" dbf="ZbirOcena"></span>         
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Broj ocena</label>
+                                                                <label class="Status2Invisible">Број оцена</label>
+                                                                <span class="noinput right" dbf="BrojOcena"></span>                                                   
+                                                            </div>
+                                                        </div>                                                  
+                                                        <div class="trecinivo pad1em row">
+                                                                <div class="twelve columns">
+                                                                    <label class="Status1Invisible">Prosek</label>
+                                                                    <label class="Status2Invisible">Просек</label>
+                                                                    <span class="noinput right" dbf="prosek8"></span>
+                                                                </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row oceneosmi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Broj bodova</label>
+                                                                <label class="Status2Invisible">Број бодова</label>
+                                                                <span class="noinput right" dbf="bod8"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row ">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible"></label>
+                                                                <label class="Status2Invisible"></label>
+                                                            </div>
+                                                        </div>                           
+                                                </div>
+                                                <div class="druginivo row pad1em ">
+                                                        <div class="ten columns">
+                                                            <label class="Status1Invisible sixI">Završni ispit:</label>
+                                                            <label class="Status2Invisible sixI">Завршни испит:</label>
+                                                            <div class="vididetalje btn dugme7">
+                                                                <a href="javascript:void(0);" class="Status1Invisible" onclick="pravilnik(3);">pravilnik</a>
+                                                                <a href="javascript:void(0);" class="Status2Invisible" onclick="pravilnik(3);">правилник</a>
+                                                            </div>
+                                                            <span class="twoI inline-block txtright noinput right POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible" dbf="BodovaZavrsni"></span>
+                                                            <span class="twoI inline-block txtright noinput right POD_Zavrsni_1Invisible" > - - - </span>
+                                                        </div>
+                                                        <div class="two columns txtright">                                                     
+                                                        </div>
+                                                </div>
+                                                <div class="trecinivo row pad1em">
+                                                        <div class="ten columns">
+                                                            <label class="Status1Invisible">Maternji jezik:</label>
+                                                            <label class="Status2Invisible">Матерњи језик:</label>
+                                                            <span class="right noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible" dbf="BodovaSrp"></span>
+                                                            <span class="twoI inline-block txtright noinput right POD_Zavrsni_1Invisible" > - - - </span>
+                                                        </div>
+                                                        <div class="two columns txtright">                                               
+                                                        </div>
+                                                </div>
+                                                <div class="trecinivo row pad1em">
+                                                        <div class="ten columns">
+                                                            <label class="Status1Invisible">Matematika:</label>
+                                                            <label class="Status2Invisible">Математика:</label>
+                                                            <span class="right noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible" dbf="BodovaMat"></span>
+                                                            <span class="twoI inline-block txtright noinput right POD_Zavrsni_1Invisible" > - - - </span>
+                                                        </div>
+                                                        <div class="two columns txtright">                                                
+                                                        </div>
+                                                </div>
+                                                <div class="trecinivo row pad1em">
+                                                        <div class="ten columns">
+                                                            <label class="Status1Invisible">Kombinovani test:</label>
+                                                            <label class="Status2Invisible">Комбиновани тест:</label>
+                                                            <span class="right noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible" dbf="BodovaKom"></span>
+                                                            <span class="twoI inline-block txtright noinput right POD_Zavrsni_1Invisible" > - - - </span>
+                                                        </div>
+                                                        <div class="two columns txtright">                                                
+                                                        </div>
+                                                </div>
+                                                <div class="relative">
+                                                    <div class="druginivo row pad1em prikaz">
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible sixI">Takmičenja:</label>
+                                                                <label class="Status2Invisible sixI">Такмичења:</label>
+                                                                <div class="vididetalje btn dugme7">
+                                                                    <a href="javascript:void(0);" class="Status1Invisible" onclick="pravilnik(5);">pravilnik</a>
+                                                                    <a href="javascript:void(0);" class="Status2Invisible" onclick="pravilnik(5);">правилник</a>
+                                                                </div>
+                                                                <span class="twoI inline-block txtright noinput right POD_Nagrade_0Invisible" dbf="BodovaNagrade"></span>
+                                                                <span class="twoI inline-block txtright noinput right POD_Nagrade_1Invisible" > - - -</span>
+                                                            </div>
+                                                            <div class="two columns txtright NijeZavrsioSkoluInvisible">
+                                                                <div class="vididetalje btn dugme4 vidi">
+                                                                    <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('Takmicenja',$(this));">vidi »</a>
+                                                                    <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('Takmicenja',$(this));">види »</a>
+                                                                    <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('Takmicenja',$(this));"></a>
+                                                                </div>
+                                                                <div class="zatvoridetalje btn dugme4 vidi">
+                                                                    <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('Takmicenja',$(this));">«</a>
+                                                                    <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('Takmicenja',$(this));">
+                                                                       
+                                                                    </a>
+                                                                </div>                                                      
+                                                            </div>
+                                                    </div>
+                                                    <div class="telosekcije vidisekcija Takmicenja" >
+                                                        <div class="prvinivo pad1em row" >
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible" >Nagrade na takmičenjima</label>
+                                                                <label class="Status2Invisible" >Награде на такмичењима</label>
+                                                            </div>
+                                                        </div>
+                                                        <div class="POD_Nagrade_1Invisible trecinivo pad1em">
+                                                            <label class="Status1Invisible"> Podaci o nagradama sa takmičenja još nisu obrađeni i ne nalaze se u bazi. </label>
+                                                            <label class="Status2Invisible"> Подаци о наградама са такмичења још нису обрађени и не налазе се у бази. </label>
+                                                        </div>
+                                                        <div class="POD_Nagrade_0Invisible beznagrade trecinivo pad1em">
+                                                            <label class="Status1Invisible"> Učenik nije evidentiran kao nosilac nagrade sa takmičenja. </label>
+                                                            <label class="Status2Invisible"> Ученик није евидентиран као носилац награде са такмичења. </label>
+                                                        </div>
+                                                        <div class="druginivo pad1em row ukupnoBodova POD_Nagrade_0Invisible">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Ukupno bodova:</label>
+                                                                <label class="Status2Invisible">Укупно бодова:</label>
+                                                                <span class="noinput right txtright" dbf="BodovaNagrade"></span>                                                    
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="relative"> 
+                                                    <div class="druginivo row pad1em prikaz">
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible sixI">Afirmativna mera:</label>
+                                                                <label class="Status2Invisible sixI">Афирмативна мера:</label>
+                                                                <div class="vididetalje btn dugme7">
+                                                                    <a href="javascript:void(0);" class="Status1Invisible" onclick="pravilnik(17);">pravilnik</a>
+                                                                    <a href="javascript:void(0);" class="Status2Invisible" onclick="pravilnik(17);">правилник</a>
+                                                                </div>
+                                                                <span class="twoI inline-block txtright  noinput right POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible" dbf="BodovaAM"></span>
+                                                                <span class="twoI inline-block txtright  noinput right POD_Zavrsni_1Invisible" > - - -</span>
+                                                            </div>
+                                                            <div class="two columns txtright NijeZavrsioSkoluInvisible">
+                                                                <div class="vididetalje btn dugme4 vidi">
+                                                                    <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('AfM',$(this));">vidi »</a>
+                                                                    <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('AfM',$(this));">види »</a>
+                                                                    <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('AfM',$(this));"></a>
+                                                                </div>
+                                                                <div class="zatvoridetalje btn dugme4 vidi">
+                                                                    <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('AfM',$(this));">«</a>
+                                                                     <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('AfM',$(this));">
+                                                                        
+                                                                    </a>
+                                                                </div>                                                 
+                                                            </div>
+                                                    </div>
+                                                    <div class="telosekcije vidisekcija AfM" >
+                                                        <div class="prvinivo pad1em row" >
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible" >Afirmativna mera</label>
+                                                                <label class="Status2Invisible" >Афирмативна мера</label>
+                                                            </div>
+                                                        </div>
+                                                        <div class="POD_Zavrsni_1Invisible trecinivo pad1em">
+                                                            <label class="Status1Invisible"> Bodovi po osnovu afirmativnih mera se obrađuju tek po okončanim završnim ispitima. <br /> Podaci o završnim ispitima se još uvek ne nalaze u bazi.</label>
+                                                            <label class="Status2Invisible"> Бодови по основу афирмативних мера се обрађују тек по окончаним завршним испитима. <br /> Подаци о завршним испитима се још увек не налазе у бази. </label>
+                                                        </div>
+                                                        <div class="POD_Zavrsni_0Invisible trecinivo pad1em AfirmativneMereInvisible ">
+                                                            <label class="Status1Invisible"> Učenik nije evidentiran kao korisnik afirmativnih mera, te nema dodatnih bodova po tom osnovu. </label>
+                                                            <label class="Status2Invisible"> Ученик није евидентиран као корисник афирмативних мера, те нема додатних бодова по том основу. </label>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row POD_Zavrsni_0Invisible amBodovi" >
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Ukupan broj bodova bez onih po osnovu afirmativne mere:</label>
+                                                                <label class="Status2Invisible">Укупан број бодова без оних по основу афирмативне мере:</label>
+                                                                <span class="right noinput" dbf="AMUkupnoBezAM"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row POD_Zavrsni_0Invisible amBodovi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Broj bodova koji nedostaje do 100:</label>
+                                                                <label class="Status2Invisible">Број бодова који недостаје до 100:</label>
+                                                                <span class="right noinput" dbf="AMOsnova"></span>                                                   
+                                                            </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row POD_Zavrsni_0Invisible amBodovi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Koeficijent afirmativne mere:</label>
+                                                                <label class="Status2Invisible">Коефицијент афирмативне мере:</label>
+                                                                <span class="right noinput" dbf="AMKoeficijent"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="druginivo pad1em row POD_Zavrsni_0Invisible amBodovi">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible">Dodatni bodovi po osnovu afirmativne mere:</label>
+                                                                <label class="Status2Invisible">Додатни бодови по основу афирмативне мере:</label>
+                                                                <span class="noinput right" dbf="BodovaAM"></span>                                           
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="druginivo row pad1em marginnivo">
+                                                    <div class="ten columns">
+                                                        <label class="Status1Invisible sixI">Ukupno bodova:</label>
+                                                        <label class="Status2Invisible sixI">Укупно бодова:</label>
+                                                        <div class="vididetalje btn dugme7">
+                                                            <a href="javascript:void(0);" class="Status1Invisible" onclick="pravilnik(3);">pravilnik</a>
+                                                            <a href="javascript:void(0);" class="Status2Invisible" onclick="pravilnik(3);">правилник</a>
+                                                        </div>
+
+                                                        <span class="right noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible" dbf="BodovaUkupno"></span>
+                                                        <span class="right noinput POD_Zavrsni_1Invisible" > - - -</span>
+                                                    </div>
+                                                </div>
+                                                <div class="trecinivo pad1em row POD_Zavrsni_0Invisible" style="padding-bottom:0.5em">
+                                                    <div class="ten columns">
+                                                        <label class="Status1Invisible">Rang učenika*:</label>
+                                                        <label class="Status2Invisible">Ранг ученика*:</label>
+                                                        <span class="right noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible"  dbf="Rang"></span>
+                                                        <span class="noinput right POD_Zavrsni_1Invisible" > - - -</span>
+                                                    </div>
+                                                    <div class="Status1Invisible font08 twelve columns">* Rang učenika predstavlja procenat učenika sa većim brojem bodova u Srbiji</div>
+                                                    <div class="Status2Invisible font08 twelve columns">* Ранг ученика представља проценат ученика са већим бројем бодова у Србији</div>
+
+                                                </div>
+                                                <div class="druginivo row pad1em ">
+                                                    <div class="ten columns neBlizanackoDeteInvisible font08">
+                                                        <label class="Status1Invisible tenI">Prvi krug - bodovi najbolje rangiranog blizanca:</label>
+                                                        <label class="Status2Invisible tenI">Први круг - бодови најбоље рангираног близанца:</label>
+                                                        <span class="right noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible font14" dbf="NajboljiBlizanacBodovi"></span>
+                                                        <span class="right noinput POD_Zavrsni_1Invisible font14" > - - -</span>
+                                                    </div>
+                                                    <div class="ten columns neBlizanackoDeteInvisible font08 drugiKrugSopstveniBodoviUkloni NemaDrugeZeljeUkloni">
+                                                        <label class="Status1Invisible tenI">Drugi krug - bodovi najbolje rangiranog blizanca:</label>
+                                                        <label class="Status2Invisible tenI">Други круг - бодови најбоље рангираног близанца:</label>
+                                                        <span class="right noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible font14" dbf="NajboljiBlizanacBodovi2"></span>
+                                                        <span class="right noinput POD_Zavrsni_1Invisible font14" > - - -</span>
+                                                    </div>
+                                                    <div class="ten columns neBlizanackoDeteInvisible font08 drugiKrugTudjiBodoviUkloni NemaDrugeZeljeUkloni">
+                                                        <label class="Status1Invisible tenI">Drugi krug - sopstveni bodovi:</label>
+                                                        <label class="Status2Invisible tenI">Други круг - сопствени бодови</label>
+                                                    </div>
+
+                                                </div>
+                                                
+                                            </div>
+                                        </div>                                
+                                        <div class="sekcija marginsekcija">
+                                            <div class="naslovsekcije pad1em row">
+                                                <div class="ten columns">
+                                                    <label class="Status1Invisible sixI ">Prednosti učenika:</label>
+                                                    <label class="Status2Invisible sixI">Предности ученика:</label>
+                                                    <div class="vididetalje btn dugme7">
+                                                        <a href="javascript:void(0);" class="Status1Invisible" onclick="pravilnik(2);">pravilnik</a>
+                                                        <a href="javascript:void(0);" class="Status2Invisible" onclick="pravilnik(2);">правилник</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="telosekcije ">                                                   
+                                                <div class="trecinivo pad1em row">
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible">Diploma "Vuk Karadžić":</label>
+                                                                <label class="Status2Invisible">Диплома "Вук Караџић":</label>
+                                                                <span class="Status1Invisible right noinput" dbf="Vukova"></span>
+                                                                <span class="Status2Invisible right noinput" dbf="Vukova"></span>
+                                                            </div>
+                                                            <div class="two columns txtright">  
+                                                            </div>
+                                                </div>
+                                                <div class="relative">
+                                                    <div class="trecinivo row pad1em prikaz">
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible">Takmičenja:</label>
+                                                                <label class="Status2Invisible">Такмичења:</label>
+                                                                <span class="right noinput POD_Nagrade_0Invisible" dbf="BodovaNagrade"></span>
+                                                                <span class="right noinput POD_Nagrade_1Invisible " > - - -</span>
+                                                            </div>
+                                                            <div class="two columns txtright NijeZavrsioSkoluInvisible">
+                                                                <div class="vididetalje btn dugme4 vidi">
+                                                                    <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('Takmicenja2',$(this));">vidi »</a>
+                                                                    <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('Takmicenja2',$(this));">види »</a>
+                                                                    <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('Takmicenja2',$(this));"></a>
+                                                                </div>
+                                                                <div class="zatvoridetalje btn dugme4 vidi">
+                                                                    <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('Takmicenja2',$(this));">«</a>
+                                                                    <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('Takmicenja2',$(this));">
+                                                                       
+                                                                    </a>
+                                                                </div>                                                      
+                                                            </div>
+                                                    </div>
+                                                    <div class="telosekcije vidisekcija Takmicenja2" ></div>
+                                                </div>
+                                                <div class="trecinivo row pad1em">
+                                                        <div class="ten columns">
+                                                            <label class="Status1Invisible">Bodovi na završnom ispitu:</label>
+                                                            <label class="Status2Invisible">Бодови на завршном испиту:</label>
+                                                            <span class="right noinput POD_Zavrsni_0Invisible NijeZavrsioSkoluInvisible " dbf="BodovaZavrsni"></span>
+                                                            <span class="right noinput POD_Zavrsni_1Invisible" >- - -</span>
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="sekcija marginsekcija MUpisa POD_Zavrsni_0Invisible">
+                                                <div class="naslovsekcije pad1em">
+                                                    <label class="Status1Invisible ">Mogućnosti upisa:</label>
+                                                    <label class="Status2Invisible ">Могућности уписа:</label>
+                                                </div>
+                                             <div class="telosekcije ">
+                                                        <div class="trecinivo pad1em row ">
+
+                                                            <div class="ten columns nijeZavrsioOsnovnu">
+                                                                <label class="Status1Invisible ">Učenik nije završio osnovnu školu, te ne može konkurisati za upis u srednju školu</label>
+                                                                <label class="Status2Invisible ">Ученик није завршио основну школу, те не може конкурисати за упис у средњу школу</label>
+                                                            </div>
+
+                                                            <div class="ten columns manjeOd50">
+                                                                <label class="Status1Invisible ">Učenik ima manje od 50 bodova te nema pravo upisa četvorogodišnjih profila</label>
+                                                                <label class="Status2Invisible ">Ученик има мање од 50 бодова те нема право уписа четворогодишњих профила</label>
+                                                            </div>
+
+                                                            <div class="ten columns viseOd50">
+                                                                <label class="Status1Invisible ">Učenik ima pravo upisa svih opštih trogodišnjih i četvorogodišnjih profila za koje ispunjava potrebne zdravstvene uslove</label>
+                                                                <label class="Status2Invisible ">Ученик има право уписа свих општих трогодишњих и четворогодишњих профила за које испуњава потребне здравствене услове</label>
+                                                            </div>
+                                                        </div>
+                                                        <div class="relative marginnivo">
+                                                            <div class="druginivo pad1em row prikaz ">
+
+                                                                <div class="ten columns">
+                                                                    <label class="Status1Invisible ">Prijemni za specijalizovana odeljenja:</label>
+                                                                    <label class="Status2Invisible ">Пријемни за специјализована одељења:</label>
+                                                                </div>
+
+                                                                <div class="two columns txtright NijeZavrsioSkoluInvisible">
+                                                                    <div class="vididetalje btn dugme4 vidi">
+                                                                        <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('Prijemni',$(this));">vidi »</a>
+                                                                        <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('Prijemni',$(this));">види »</a>
+                                                                         <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('Prijemni',$(this));"></a>
+                                                                    </div>
+                                                                    <div class="zatvoridetalje btn dugme4 vidi">
+                                                                        <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('Prijemni',$(this));">«</a>
+                                                                        <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('Prijemni',$(this));">
+                                                                    
+                                                                </a>
+                                                                    </div>     
+                                                                </div>
+
+                                                             
+                                                            </div>
+                                                            <div class="telosekcije vidisekcija Prijemni" >
+                                                                    <div class="prvinivo pad1em row" >
+                                                                        <div class="twelve columns">
+                                                                            <label class="Status1Invisible" >Specijalizovani profili koje učenik ima pravo da upiše:</label>
+                                                                            <label class="Status2Invisible" >Специјализовани профили које ученик има право да упише:</label>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="trecinivo pad1em row bezPrijemnog">
+                                                                        <label class="twelve columns Status1Invisible" > Učenik nije ispunio uslove upisa ni jednog specijalizovanog odeljenja  </label>
+                                                                        <label class="twelve columns Status2Invisible" > Ученик није испунио услове уписа ни једног специјализованог одељења  </label>
+                                                                    </div>
+                                                                <div class="Prijemn_prazan"></div>
+                                                                    
+                                                             </div>
+                                                        </div>
+                                                        <div class="trecinivo pad1em row Prijemni0">
+                                                            <div class="ten columns">
+                                                                <label class="Status1Invisible ">Učenik nema evidentiran ni jedan položen prijemni ispit za specijalizovana odeljenja</label>
+                                                                <label class="Status2Invisible ">Ученик нема евидентиран ни један положен пријемни испит за специјализована одељења</label>                                                                
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="trecinivo pad1em row Prijemni1">
+                                                            <div class="eight columns">
+                                                                <label dbf="Prijemni"></label>
+                                                            </div>
+                                                            <div class="two columns">
+                                                                <span class="right noinput" dbf="Bodova"></span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="trecinivo pad1em row Prijemni2">
+                                                            <div class="eight columns">
+                                                                <label dbf="Prijemni"></label>
+                                                            </div>
+                                                            <div class="two columns">
+                                                                <span class="right noinput" dbf="Bodova"></span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="trecinivo pad1em row Prijemni3">
+                                                            <div class="eight columns">
+                                                                <label dbf="Prijemni"></label>
+                                                            </div>
+                                                            <div class="two columns">
+                                                                <span class="right noinput" dbf="Bodova"></span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="trecinivo pad1em row Prijemni4">
+                                                            <div class="eight columns">
+                                                                <label dbf="Prijemni"></label>
+                                                            </div>
+                                                            <div class="two columns">
+                                                                <span class="right noinput" dbf="Bodova"></span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="trecinivo pad1em row Prijemni5">
+                                                            <div class="eight columns">
+                                                                <label dbf="Prijemni"></label>
+                                                            </div>
+                                                            <div class="two columns">
+                                                                <span class="right noinput" dbf="Bodova"></span>
+                                                            </div>
+                                                        </div>
+
+                                                       
+                                                 </div>
+                                                 <div class="relative marginnivo">
+                                                      <div class="druginivo pad1em row">
+                                                            <div class="twelve columns">
+                                                                <label class="Status1Invisible ">Prijava za profile po dualnom obrazovnom modelu:</label>
+                                                                <label class="Status2Invisible ">Пријава за профиле по дуалном образовном моделу:</label>
+                                                            </div>
+                                                                                                                          
+                                                      </div>
+                                                     <div class="trecinivo pad1em row">
+                                                            <div class="ten columns zeljefont">
+                                                                    <label class="Status1Invisible eightI">Učenik podneo prijavu:</label>
+                                                                    <label class="Status2Invisible eightI">Ученик поднео пријаву:</label>
+                                                                    <div class="vididetalje btn dugme7">
+                                                                        <a href="javascript:void(0);" class="Status1Invisible" onclick="pravilnik(20);">pravilnik</a>
+                                                                        <a href="javascript:void(0);" class="Status2Invisible" onclick="pravilnik(20);">правилник</a>
+                                                                    </div>
+                                                                   
+                                                                    <span class=" right noinput " dbf="DualPrijava"></span>                                                                  
+                                                                    
+                                                            </div>
+                                                     </div>
+                                                 </div>
+                                                 
+                                        </div>
+                                        <div class="sekcija marginsekcija marginbott">
+                                                <div class="naslovsekcije pad1em">
+                                                    <label class="Status1Invisible ">Iskazane želje učenika:</label>
+                                                    <label class="Status2Invisible ">Исказане жеље ученика:</label>
+                                                </div>
+                                                <div class="telosekcije ">
+                                                        <div class="relative">
+                                                            <div class="trecinivo pad1em row prikaz">
+                                                                <div class="ten columns zeljefont">
+                                                                    <label class="Status1Invisible eightI">Iskazane želje u prvom krugu:</label>
+                                                                    <label class="Status2Invisible eightI">Исказане жеље у првом кругу:</label>
+                                                                    <div class="vididetalje btn dugme7">
+                                                                        <a href="javascript:void(0);" class="Status1Invisible" onclick="pravilnik(18);">pravilnik</a>
+                                                                        <a href="javascript:void(0);" class="Status2Invisible" onclick="pravilnik(18);">правилник</a>
+                                                                    </div>
+                                                                    <span class="right noinput POD_Zelje_0Invisible " dbf="BrojZelja1Krug"></span>
+                                                                    <span class="right noinput POD_Zelje_1Invisible" >- - -</span>
+                                                                </div>
+                                                                <div class="two columns txtright NijeZavrsioSkoluInvisible">
+                                                                    <div class="vididetalje btn dugme4 vidi">
+                                                                        <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('Zelja1',$(this));">vidi »</a>
+                                                                        <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('Zelja1',$(this));">види »</a>
+                                                                         <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('Zelja1',$(this));"></a>
+                                                                    </div>
+                                                                    <div class="zatvoridetalje btn dugme4 vidi">
+                                                                        <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('Zelja1',$(this));">«</a>
+                                                                        <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('Zelja1',$(this));">
+                                                                    
+                                                                </a>
+                                                                    </div>     
+                                                                </div>
+                                                            </div>
+                                                            <div class="telosekcije vidisekcija Zelja1" >
+                                                                <div class="prvinivo" >
+                                                                  
+                                                                       <div class="tablecell rb bold txtcenter"></div>
+                    
+                                                                                <div class="tablecell row"> 
+                                                                                                                                                                                                                                                
+                                                                                    <div class="row duzina">
+                                                                                        <div class="nine columns">
+                                                                                            <label class="Status1Invisible" >Iskazane želje u prvom krugu:</label>
+                                                                                            <label class="Status2Invisible" >Исказане жеље у првом кругу:</label>
+                                                                                        </div>
+                                                                                        <div class="three columns">
+                                                                                            <p class="Status1Invisible obrazlozenje txtcenter padbodovi"> bodovi <br /> učenika </p>
+                                                                                            <p class="Status2Invisible obrazlozenje txtcenter padbodovi"> бодови <br />ученика </p>
+                                                                                            <p class="Status1Invisible obrazlozenje txtcenter padbodovi2 right"> min <br /> bodova </p>
+                                                                                            <p class="Status2Invisible obrazlozenje txtcenter padbodovi2 right"> мин<br /> бодова </p>
+                                
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="tablecell stikla txtcenter row"></div>                                                                                     
+                                                                    
+                                                                    
+                                                                </div>
+                                                               
+                                                                <div class="POD_Zelje_1Invisible trecinivo pad1em BezZelja1">
+                                                                    <label class="Status1Invisible"> Podaci o željama učenika za prvi krug raspodele se još uvek ne nalaze u bazi.</label>
+                                                                    <label class="Status2Invisible"> Подаци о жељама ученика за први круг расподеле се још увек не налазе у бази.</label>
+                                                                </div>
+                                                                 <div class="trecinivo pad1em row ZeljaNema">
+                                                                        <label class="twelve columns Status1Invisible" > Učenik nema evidentiranih želja  </label>
+                                                                        <label class="twelve columns Status2Invisible" > Ученик нема евидентираних жеља  </label>
+                                                                    </div>
+                                                                <div class=" Zelje1krug">
+                                                                     
+                                                                </div>
+                                                                <div class="row font08 " style="padding:0.25em 1em">
+                                                                    <span class="Status1Invisible">Učenici sa karakterom "+" sa leve strane bodova su ostvarili prednost prilikom upisa datog profila, a u skladu sa privilnikom upisa. <br /></span>  
+                                                                    <span class="Status2Invisible">Ученици са карактером "+" са леве стране бодова су остварили предност приликом уписа датог профила, а у складу са правилником уписа. </span><br />
+                                                                </div>                                                                                                                   
+                                                                
+                                                            </div>
+                                                        </div>
+                                                        <div class="relative">
+                                                            <div class="trecinivo row pad1em  prikaz NijeZavrsioSkoluInvisible">
+                                                                    <div class="ten columns">
+                                                                        <label class="Status1Invisible">Iskazane želje u drugom krugu:</label>
+                                                                        <label class="Status2Invisible">Исказане жеље у другом кругу:</label>
+                                                                        <span class="right noinput" dbf="BrojZelja2Krug"></span>                                                           
+                                                                    </div>
+                                                                    <div class="two columns txtright">
+                                                                        <div class="vididetalje btn dugme4 vidi">
+                                                                            <a href="javascript:void(0);" class="Status1Invisible regularni" onclick="PokaziDetalje('Zelja2',$(this));">vidi »</a>
+                                                                            <a href="javascript:void(0);" class="Status2Invisible regularni" onclick="PokaziDetalje('Zelja2',$(this));">види »</a>
+                                                                             <a href="javascript:void(0);" class="mobilni icon-ctrl" onclick="PokaziDetalje('Zelja2',$(this));"></a>
+                                                                        </div>
+                                                                        <div class="zatvoridetalje btn dugme4 vidi">
+                                                                            <a href="javascript:void(0);" class="regularni" onclick="ZatvoriDetalje('Zelja2',$(this));">«</a>
+                                                                             <a href="javascript:void(0);" class="mobilni icon-ctrl2" onclick="ZatvoriDetalje('Zelja1',$(this));">
+                                                                        
+                                                                            </a>
+                                                                        </div>                                                               
+                                                                    </div>
+                                                            </div>
+                                                            <div class="telosekcije vidisekcija Zelja2 " >
+                                                                 <div class="prvinivo" >
+                                                                  
+                                                                       <div class="tablecell rb bold txtcenter"></div>
+                    
+                                                                                <div class="tablecell row"> 
+                                                                                                                                                                                                                                                
+                                                                                    <div class="row duzina">
+                                                                                        <div class="nine columns">
+                                                                                            <label class="Status1Invisible" >Iskazane želje u drugom krugu</label>
+                                                                                            <label class="Status2Invisible" >Исказане жеље у другом кругу:</label>
+                                                                                        </div>
+                                                                                        <div class="three columns">
+                                                                                            <p class="Status1Invisible obrazlozenje txtcenter padbodovi"> bodovi <br /> učenika </p>
+                                                                                            <p class="Status2Invisible obrazlozenje txtcenter padbodovi"> бодови <br />ученика </p>
+                                                                                            <p class="Status1Invisible obrazlozenje txtcenter padbodovi2 right"> min <br /> bodova </p>
+                                                                                            <p class="Status2Invisible obrazlozenje txtcenter padbodovi2 right"> мин<br /> бодова </p>
+                                
+                                                                                        </div>
+                                                                                    </div>
+                                                                                                                   
+                                                                                </div>
+                                                                                <div class="tablecell stikla txtcenter row"></div>                                                                                     
+                                                                    
+                                                                    
+                                                                </div>
+                                                               
+                                                                <div class="POD_Zelje2_1Invisible trecinivo pad1em BezZelja2">
+                                                                    <label class="Status1Invisible"> Podaci o željama učenika za drugi krug raspodele se još uvek ne nalaze u bazi.</label>
+                                                                    <label class="Status2Invisible"> Подаци о жељама ученика за други круг расподеле се још увек не налазе у бази.</label>
+                                                                </div>
+                                                                <div class="trecinivo pad1em row ZeljaNema2">
+                                                                        <label class="twelve columns Status1Invisible" > Učenik nema evidentiranih želja  </label>
+                                                                        <label class="twelve columns Status2Invisible" > Ученик нема евидентираних жеља  </label>
+                                                                </div>
+                                                                <div class=" Zelje2krug">
+                                                                     
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                     </div>
+                                     <div class="six columns "></div>       
+                            </div>
+
+                        </div>
+                  </div>
+
+               
+            </div>
+        </div>
+    </div>
+
+   
+
+    <div class="templateNagrada invisible">
+            <div class="druginivo pad1em row nagradaPredmet" >
+                <div class="twelve columns">
+                    <label class="Status1Invisible" dbf="nagradaPredmet"></label>
+                    <label class="Status2Invisible" dbf="nagradaPredmet"></label>
+                    <label class="bold two right txtright" dbf="nagradaBodova"></label>
+                </div>
+            </div>
+            <div class="trecinivo pad1em row nagradaNivo" >
+                <div class="twelve columns">
+                    <label class="Status1Invisible" dbf="nagradaNivo"></label>
+                    <label class="Status2Invisible" dbf="nagradaNivo"></label>
+                </div>
+            </div>
+    </div>
+
+    <div class="templateObrProfil invisible">
+        <div class="ObrProfil">
+            <div class="trecinivo pad1em row">
+                
+                <a class="twelve columns bold" href="!ProfilLink!">!Profil!</a>
+            </div>
+            <div class="trecinivo pad1em row">
+                <label class="two columns Status1Invisible"> Prijemni</label>
+                <label class="two columns Status2Invisible"> Пријемни</label>
+                <label class="two columns" dbf="Bodova">!Bodova! </label>
+                <label class="two columns Status1Invisible"> Nagrade</label>
+                <label class="two columns Status2Invisible"> Награде</label>
+                <label class="two columns " dbf="BodovaNagrade">!BodovaNagrade! </label>
+                <label class="two columns Status1Invisible "> Ukupno</label>
+                <label class="two columns Status2Invisible "> Укупно</label>
+                <label class="two columns bold" dbf="Ukupno">!Ukupno! </label>
+            </div>
+        </div>
+    </div>
+
+    <div class="templateZelje1 invisible">
+         <div class="ProfilZelja1 bgd!Upisana!">
+               <div class="row trecinivo pad1em ZeljaUpis3 IspunioUslov_!IspunioUslov!">
+                    <div class="tablecell rb bold txtcenter bgd!Upisana!">!rbzelje!.</div>
+                    
+                    <div class="tablecell row "> 
+                        <div class="row">
+                            <div class="twelve columns">
+                                <a class="font08" href="!link!">!sifra!</a>&nbsp;-&nbsp;
+                                <span class="Status1Invisible " >!Profil2! </span>
+                                <span class="Status2Invisible " >!Profil1! </span>
+                            </div>
+                        </div>                                                                                                                                                                                                                         
+                        <div class="row">
+                            <div class="nine columns">
+                                <span class="Status1Invisible" >!NazivSkole2!</span>
+                                <span class="Status2Invisible" >!NazivSkole1!</span>
+                            </div>
+                            <div class="three columns">
+                                <div class="bold font08 block padlimun" >!sBodova!</div>
+                                <div class="bold font08 block right" >!MinBodova!</div>
+                                
+                            </div>
+                        </div>
+                        <div class="row IspunioUslov_1Invisible">
+                                <div class="twelve columns">
+                                <span class="Status1Invisible" >Nije ispunjen uslov za upis datog profila - <a href="/Pravilnici/!IDSP!" class="nobold">vidi pravilnik</a></span>
+                                <span class="Status2Invisible " >Није испуњен услов за упис датог профила - <a href="/Pravilnici/!IDSP!" class="nobold">види правилник</a></span>
+                                </div>
+                                                                               
+                        </div>                                                                                  
+                    </div>
+                    <div class="tablecell stikla txtcenter row "></div>                                                                                                                                                                                                                                                        
+                                                                      
+                </div>
+          </div>
+    </div>
+
+    <script>
+                var ucenik = [{"IDUCenik":"20560481","IDSKola":"1928","SKola1":"СВЕТИ САВА, округ КОСОВСКО ПОМОРАВСКИ","Status":"УПИСАН","UpisanNa":"KPKK SC 4O13S","UpisanNaOpis":"Распоређен у првом кругу на \u003ca href=\"/Srednje-skole/KPKK-SC-4O13S\" \u003e KPKK SC 4O13S\u003c/a\u003e, по 1. жељи  \u003c/br\u003e Медицинска школа, медицинска сестра – техничар (српски језик)","PremestenNaOpis":"","Bodova6":"18.28","Bodova7":"18.40","Bodova8":"19.72","BodoviSkola":"56.40","BodovaSrp":"8.13","BodovaMat":"5.53","BodovaKom":"7.00","BodovaZavrsni":"20.66","BodovaAM":"0.00","BodovaNagrade":"0","BodovaUkupno":"77.06","BrojZelja1Krug":"4","BrojZelja2Krug":"","Vukova":"НЕ","Maternji":"","PrviStraniJezik":"Енглески језик","DrugiStraniJezik":"Руски језик","AMUkupnoBezAM":"","AMOsnova":"","AMKoeficijent":"","SKola":"\u003ca href=\"/Osnovne-skole/1928/Sveti-Sava\"\u003eСВЕТИ САВА, округ КОСОВСКО ПОМОРАВСКИ\u003c/a\u003e","blizanac":"","NajboljiBlizanacBodovi":"","blizanac2":"","NajboljiBlizanacBodovi2":"","Rang":"44.65","DualPrijava":"НЕ"}];
+                var sesti = [{"IDUcenik":"20560481","maternjiJezik":"4","drugiMaternjiJezik":"0","prviStrani":"5","likovno":"5","muzicko":"5","istorija":"4","geografija":"4","fizika":"4","matematika":"4","biologija":"5","tehnicko":"5","fizicko":"5","drugiStrani":"4","izborniSport":"5","vladanje":"5","ZbirOcena":"64","BrojOcena":"14","prosek6":"4.57","bod6":"18.28"}];
+                var sedmi = [{"IDUcenik":"20560481","maternjiJezik":"4","drugiMaternjiJezik":"0","prviStrani":"5","likovno":"5","muzicko":"5","istorija":"4","geografija":"4","fizika":"4","matematika":"4","biologija":"5","hemija":"4","tehnicko":"5","fizicko":"5","drugiStrani":"5","izborniSport":"5","vladanje":"5","ZbirOcena":"69","BrojOcena":"15","prosek7":"4.60","bod7":"18.40"}];
+                var osmi = [{"IDUcenik":"20560481","maternjiJezik":"4","drugiMaternjiJezik":"0","prviStrani":"5","likovno":"5","muzicko":"5","istorija":"5","geografija":"5","fizika":"5","matematika":"5","biologija":"5","hemija":"5","tehnicko":"5","fizicko":"5","drugiStrani":"5","izbornisport":"5","vladanje":"5","vukovaDiploma":"0","ZbirOcena":"74","BrojOcena":"15","prosek8":"4.93","bod8":"19.72"}];
+                var nagrade = [];
+                var prijemni = [];
+                var profili = [];
+                var zelje1 = [{"IDucenik":"20560481","rbzelje":"1","sifra":"KPKK SC 4O13S","IDSkola":"612","NazivSkole1":"Медицинска школа","Profil1":"медицинска сестра – техничар","MinBodova":"72.52","sBodova":"77.06","IspunioUslov":"1","Upisana":"1","link":"/Srednje-skole/KPKK-SC-4O13S","IDSP":"3"},{"IDucenik":"20560481","rbzelje":"2","sifra":"KPKK SC 4O06S","IDSkola":"612","NazivSkole1":"Медицинска школа","Profil1":"педијатријска сестра – техничар","MinBodova":"59.37","sBodova":"77.06","IspunioUslov":"1","Upisana":"0","link":"/Srednje-skole/KPKK-SC-4O06S","IDSP":"3"},{"IDucenik":"20560481","rbzelje":"3","sifra":"KPGL SG 4O13S","IDSkola":"654","NazivSkole1":"Медицинска школа - делатност ван седишта - Шилово","Profil1":"медицинска сестра – техничар","MinBodova":"70.75","sBodova":"77.06","IspunioUslov":"1","Upisana":"0","link":"/Srednje-skole/KPGL-SG-4O13S","IDSP":"3"},{"IDucenik":"20560481","rbzelje":"4","sifra":"KPGL GA 4R01S","IDSkola":"482","NazivSkole1":"Гимназија","Profil1":"друштвено - језички смер","MinBodova":"59.12","sBodova":"77.06","IspunioUslov":"1","Upisana":"0","link":"/Srednje-skole/KPGL-GA-4R01S","IDSP":"3"}];
+                var zelje2 = [];
+
+
+                $(function () {
+                    if(ucenik.length > 0) { 
+                        $('.pozadinasekcije').initDBFsByObject(ucenik[0]);
+                        $('.prazan_grid1').remove();
+                        $('.prazan_grid2').removeClass('invisible');
+                        if (parseFloat(ucenik[0].BodovaAM) == 0) $('.amBodovi').remove(); 
+                        if (parseFloat(ucenik[0].BodovaUkupno) == -1) $('.manjeOd50, .viseOd50').remove(); 
+                        if (parseFloat(ucenik[0].BodovaUkupno) < 50 && parseFloat(ucenik[0].BodovaUkupno) > 0) $('.nijeZavrsioOsnovnu, .viseOd50').remove(); 
+                        if (parseFloat(ucenik[0].BodovaUkupno) >= 50) $('.manjeOd50, .nijeZavrsioOsnovnu').remove(); 
+                        if (ucenik[0].blizanac == '' && ucenik[0].blizanac2 == '') $('.neBlizanackoDeteInvisible').remove();
+                        else $('.blizanackoDeteInvisible').remove();
+                        if (zelje2.length == 0) $('.NemaDrugeZeljeUkloni').remove();
+                        if (zelje2.length > 0 && ucenik[0].blizanac != '' && ucenik[0].blizanac2 == '') $('.drugiKrugSopstveniBodoviUkloni').remove();
+                        if (zelje2.length > 0 && ucenik[0].blizanac != '' && ucenik[0].blizanac2 != '') $('.drugiKrugTudjiBodoviUkloni').remove();
+                    }
+                   
+                    if(sesti.length > 0) { $('.Sesti').initDBFsByObject(sesti[0]);}
+                    if(sedmi.length > 0) { $('.Sedmi').initDBFsByObject(sedmi[0]);}
+                    if(osmi.length > 0) { $('.Osmi').initDBFsByObject(osmi[0]);}
+                    else $('.oceneosmi').remove();
+
+                    for (var it= 0; it < nagrade.length; it++){
+                        $('.Takmicenja .beznagrade').remove();
+                        var html = $('.templateNagrada').html();
+                        var novi = $(html).insertBefore($('.Takmicenja .ukupnoBodova'));
+                        $(novi).initDBFsByObject(nagrade[it]);
+                    }
+
+                    //for (var it= 0; it < profili.length; it++){
+                    //    $('.Prijemni .bezPrijemnog').remove();
+                    //    //var html = $('.templateObrProfil').html();
+                    //    //$('.Prijemni').append(html);
+                    //    //var novi = $('.Prijemni').children().last(); 
+                    //    //$(novi).initDBFsByObject(profili[it]);
+                    //    $('.Prijemni').renderListInContainer('.templateObrProfil',profili);
+                    //}
+                    if ( profili.length > 0)
+                    {
+                        $('.Prijemni .bezPrijemnog').remove();
+                        $('.Prijemn_prazan').renderListInContainer('.templateObrProfil',profili);
+                    }
+
+                    if ( zelje1.length > 0)
+                    {
+                        $('.BezZelja1, .ZeljaNema').remove();
+                        $('.Zelje1krug').renderListInContainer('.templateZelje1',zelje1);
+                    }
+
+                    if ( zelje2.length > 0)
+                    {
+                        $('.BezZelja2, .ZeljaNema2').remove();
+                        $('.Zelje2krug').renderListInContainer('.templateZelje1',zelje2);
+                    }
+                    
+                    if (prijemni.length > 0) $('.Prijemni0').remove();
+                    for (var it= 1; it <= 5; it++){
+                        if (prijemni.length < it) $('.Prijemni' + it).remove();
+                        else $('.Prijemni' + it).initDBFsByObject(prijemni[it-1]);
+                    }
+
+                    $('.Takmicenja2').html($('.Takmicenja').html());
+
+                    $('.meni.bt1').addClass('aktivan');
+
+                    $('[dbf="Sifra"]').keypress(function(e){ if(e.which==13){ IspisiUcenika(); return false; } });
+
+                    $('[dbf="Sifra"]').focus();
+
+                    $('.Sesti span[dbf]:contains(0), .Sedmi span[dbf]:contains(0), .Osmi span[dbf]:contains(0)').each(function() { if ($(this).html() == '0') $(this).parents().filter('.trecinivo').addClass('invisible');  });
+
+                });
+
+                function PokaziDetalje(klasa, el) {
+                    $('.aktlink').removeClass('aktlink');
+                    $('.vidisekcija').removeClass('akt');
+                   
+                   
+                    setTimeout(function () { 
+                        
+                        $('.'+klasa).addClass('akt');                      
+                        $(el).parents().filter('.row.prikaz').addClass('aktlink');
+                    }, 0);
+                }
+
+                function ZatvoriDetalje(klasa, el) {
+                    $('.aktlink').removeClass('aktlink');
+                    $('.vidisekcija').removeClass('akt');
+                  
+                }
+                
+                function IspisiUcenika() {
+
+                    //var captchaContainer = null;
+                    //var loadCaptcha = function() {
+                    //    captchaContainer = grecaptcha.render('captcha_container', {
+                    //        'sitekey' : '6LfHWyQUAAAAAMNpeNkLk3uPZyWc6362BpXY-wrz',
+                    //        'lang' : 'sr',
+                    //        'callback' : function(response) {
+                                
+                                $('.pretragaUcenik :dbf(Sifra):visible').attr('obavezan', 'obavezan');
+                                $('.pretragaUcenik :dbf(Sifra):visible').izlaz();
+                                if (!$('.pretragaUcenik').validacija()) {
+                                    $('.pretragaUcenik :dbf(Sifra):visible').removeAttr('obavezan');
+                                    return;
+                                }
+                                IDUcenik = $('.pretragaUcenik :dbf(Sifra):visible').val();
+                                window.location = "/Ucenici/" + IDUcenik;
+                    //        }
+                    //    });
+                    //};
+                    //loadCaptcha(); 
+                }
+                function pravilnik(el){
+                    window.location = "/Pravilnici/"+el;
+                }
+
+               
+               
+
+
+            </script>
+
+
+
+            <div class="twelve footer bgd5" id="sc6">
+                <p class="Status1Invisible">Ministarstvo prosvete, nauke i tehnološkog razvoja | Tehnička podrška <a href="http://www.eonsystem.com">Evolution Online - EON d.o.o</a></p>
+                <p class="Status2Invisible">Министарство просвете, науке и технолошког развоја | Техничка подршка <a href="http://www.eonsystem.com">Evolution Online - EON d.o.o</a></p>
+            </div>
+        </div>
+
+    </form>
+    
+
+    
+
+
+    <div id="funkcije_za_validaciju">
+        
+
+    </div>
+
+
+    <div class="invisible modal_container" >
+        <form id="form2" enctype="multipart/form-data" method="post" class="form_modal">
+            <div class="modal_inner_container relative">
+                <div class="modal-bg modal-ready"></div>
+                <div class="modal-wrap modal-auto-cursor modal-ready" tabindex="-1" >
+                    <div class="modal-container modal-s-ready modal-inline-holder">
+                        <div class="modal-content">
+                            <div class="uc_loading">
+                                <div class="loading"><div class="loading_img"><img src="/images/loading.gif" /></div></div>
+                                <div class="loading_text"><label></label></div>
+                            </div>
+                            <div class="uc_container"></div>
+                            <button title="Close (Esc)" type="button" class="modal-close">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div id="error_poruke_container_1" class="error_poruke_container">
+        <script>
+            var error_poruke = { polje_obavezno: "Поље је обавезно", neocekivani_format: "Поље није у очекиваном формату" };
+        </script>
+    </div>
+    
+
+      <script>
+          $(function ()
+          {
+              if (navigator.userAgent.indexOf('Mac OS X') != -1) { $('body').addClass('mac'); } else { $('body').addClass('pc') };
+              var ua = navigator.userAgent.toLowerCase();
+              var isAndroid = ua.indexOf("android") > -1; if (isAndroid) { $('body').addClass('android'); }
+
+              $('.header .meni a:not(.txtright a)').click(function () {
+                  $('.meni').removeClass('aktivan');
+
+                  $(this).parents().filter('.meni').addClass('aktivan');  
+              });
+
+              initErrorMessages();
+
+              $('.mobilenavbutton').click(function () {
+                  $('.mobilenavopen').addClass('aktivan'),
+                  $('body').addClass('noscroll');
+              });
+              $('#closenavigation').click(function () {
+                  $('.mobilenavopen').removeClass('aktivan'),
+                  $('body').removeClass('noscroll');
+              });
+
+              
+
+          });
+
+          function initErrorMessages() {
+
+              app.Config.ErrorPoruke = error_poruke;
+              $('.Status1 [err_obavezno_polje_poruka2], .Status1 [los_regex_format2]').removeAttr('err_obavezno_polje_poruka2').removeAttr('los_regex_format2');
+              $('.Status2 [err_obavezno_polje_poruka1], .Status2 [los_regex_format1]').removeAttr('err_obavezno_polje_poruka1').removeAttr('los_regex_format1');
+
+              $('.Status1 [err_obavezno_polje_poruka1]').each(function () {
+                  $(this).attr('err_obavezno_polje_poruka', $(this).attr('err_obavezno_polje_poruka1')).removeAttr('err_obavezno_polje_poruka1');
+              });
+              $('.Status2 [err_obavezno_polje_poruka2]').each(function () {
+                  $(this).attr('err_obavezno_polje_poruka', $(this).attr('err_obavezno_polje_poruka2')).removeAttr('err_obavezno_polje_poruka2');
+              });
+
+              $('.Status1 [los_regex_format1]').each(function () {
+                  $(this).attr('los_regex_format', $(this).attr('los_regex_format1')).removeAttr('los_regex_format1');
+              });
+              $('.Status2 [los_regex_format2]').each(function () {
+                  $(this).attr('los_regex_format', $(this).attr('los_regex_format2')).removeAttr('los_regex_format2');
+              });
+
+
+          }
+          function lpad(value, padding) {
+              if (value == "-1") value = 0;
+              if (value == null) value = 0;
+              var zeroes = new Array(padding + 1).join("0");
+              return (zeroes + value).slice(-padding);
+          }
+        </script>   
+
+</body>
+</html>

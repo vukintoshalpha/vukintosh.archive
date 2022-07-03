@@ -1,0 +1,2436 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9"> <![endif]-->
+<!--[if IE  ]>     <html class="ie gt9"> <![endif]-->
+<!--[if !IE]><!--> <html xmlns="../../../www.w3.org/1999/xhtml/index.html">             <!--<![endif]--> 
+
+<html xmlns="http://www.w3.org/1999/xhtml" class="visina">
+
+<!-- Mirrored from upis.mpn.gov.rs/Cir/Srednje-skole/KPKK-SC-4O13S by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 27 Nov 2020 14:09:26 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta charset="utf-8" /><meta name="author" content="Evolution Online EON d.o.o. - www.eonsystem.com" /><meta name="viewport" content="width=device-width" /><link href="../../css/CSSSkeleton.min.css" rel="stylesheet" /><link href="../../css/Animate.min.css" rel="stylesheet" /><link href="../../css/style1.min.css" rel="stylesheet" /><link href="../../fonts/ico2/style_ico.min.css" rel="stylesheet" />
+    
+    <script type="text/javascript">
+        var oldieCheck = Boolean(document.getElementsByTagName('html')[0].className.match(/\lte9\s/g));
+        if (!oldieCheck) {
+            document.write('<script src="../../../ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"><\/script>');
+        } else {
+            document.write('<script src="../../../ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"><\/script>');
+        }
+    </script>
+    <script src="../../js/eUtils.min.js"></script>
+    
+    
+    <meta name="keywords" content="upis, upis u srednje skole, upis u srednje skole srbije, rezultati mature, rezultati zavrsnog ispita, završni ispit, mala matura">
+    <meta name="description" content="Upis u srednje škole, zvanični sajt Ministarstva prosvete i nauke Republike Srbije">
+    <title>Srednja skola - UPIS U SREDNJE ŠKOLE SRBIJE 2020/2021</title>
+  
+
+    <!--[if IE 8]><link href="/css/ie8.css" rel="stylesheet" /><![endif]-->
+    <!--[if IE 9]><link href="/css/ie9.css" rel="stylesheet" /><![endif]-->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="../../ico/apple-icon-57x57.png" /><link rel="apple-touch-icon" sizes="60x60" href="../../ico/apple-icon-60x60.png" /><link rel="apple-touch-icon" sizes="72x72" href="../../ico/apple-icon-72x72.png" /><link rel="apple-touch-icon" sizes="76x76" href="../../ico/apple-icon-76x76.png" /><link rel="apple-touch-icon" sizes="114x114" href="../../ico/apple-icon-114x114.png" /><link rel="apple-touch-icon" sizes="120x120" href="../../ico/apple-icon-120x120.png" /><link rel="apple-touch-icon" sizes="144x144" href="../../ico/apple-icon-144x144.png" /><link rel="apple-touch-icon" sizes="152x152" href="../../ico/apple-icon-152x152.png" /><link rel="apple-touch-icon" sizes="180x180" href="../../ico/apple-icon-180x180.png" /><link rel="icon" type="image/png" sizes="192x192" href="../../ico/android-icon-192x192.png" /><link rel="icon" type="image/png" sizes="32x32" href="../../ico/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="96x96" href="../../ico/favicon-96x96.png" /><link rel="icon" type="image/png" sizes="16x16" href="../../ico/favicon-16x16.png" /><link rel="manifest" href="http://upis.mpn.gov.rs/ico/manifest.json" /><meta name="msapplication-TileColor" content="#ffffff" /><meta name="msapplication-TileImage" content="/ico/ms-icon-144x144.png" /><meta name="theme-color" content="#ffffff" /><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" /><title>
+
+</title></head>
+<body class="visina Status1" >
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '../../../www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-4196990-5', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+
+        //function fCaptcha(el,funkcija, argument1, argument2, argument3) {
+        //    if (el != 0) {
+        //        $('.row_captch').removeClass('invisible');
+        //        $('body').css('overflow', 'hidden');
+        //        var captchaContainer = null;
+        //        var loadCaptcha = function () {
+        //            captchaContainer = grecaptcha.render('captcha_container', {
+        //                'sitekey': '6LfHWyQUAAAAAMNpeNkLk3uPZyWc6362BpXY-wrz',
+        //                'lang': 'sr',
+        //                'callback': function (response) {
+
+        //                    funkcija(argument1, argument2, argument3)
+        //                    $('.row_captch').addClass('invisible');
+        //                }
+        //            });
+        //        };
+        //        loadCaptcha();
+        //    }
+        //    else { funkcija(argument1, argument2, argument3) }
+
+        //}
+        //function otkazi_cap() {
+        //    //$('.row_captch').addClass('invisible'); 
+        //    //$("#captcha").removeClass("disabled-element");
+        //    location.reload();
+        //}
+  </script> 
+
+    <div class="cont media100">       
+        <div class="cont header bgd1 animated fixednav fadeInDown">
+            <div class="row navJezik ">
+                <div class="rowInner">
+                    <div class="six columns inside">
+                       <a href="http://upis.mpn.gov.rs/Pocetna" class="Status1Invisible">Početna strana</a>
+                       <a href="http://upis.mpn.gov.rs/Pocetna" class="Status2Invisible">Почетна страна</a>
+                    </div>
+                    <div id="jez_ik_1" class="six columns txtright inside">
+                        <a class="padd_10 jezik cir" href="KPKK-SC-4O13S.html?PromenaJezika=1">Ћирилица</a>
+                        <a class="padd_10 jezik lat" href="http://upis.mpn.gov.rs/Lat/Srednje-skole/KPKK-SC-4O13S">Latinica</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row bgd1 ">
+                <div class="rowInner">
+                    <div class="meni bt1">
+                        <a href="http://upis.mpn.gov.rs../Ucenici" class="Status1Invisible">Podaci o učenicima</a>
+                        <a href="http://upis.mpn.gov.rs../Ucenici" class="Status2Invisible">Подаци о ученицима</a>
+                    </div>
+                     <div class="meni bt2">
+                           <a href="http://upis.mpn.gov.rs/Osnovne-skole-pretraga" class="Status1Invisible">Osnovne škole</a>
+                           <a href="http://upis.mpn.gov.rs/Osnovne-skole-pretraga" class="Status2Invisible">Основне школе</a>                       
+                    </div>
+                     <div class="meni bt3">
+                           <a href="http://upis.mpn.gov.rs/Srednje-skole-pretraga" class="Status1Invisible">Srednje škole i obrazovni profili</a>
+                           <a href="http://upis.mpn.gov.rs/Srednje-skole-pretraga" class="Status2Invisible">Средње школе и образовни профили</a>                    
+                    </div>
+                     <div class="meni bt4">
+                         <a href="http://upis.mpn.gov.rs/Prethodna-godina-pretraga" class="Status1Invisible">Prethodna godina</a>
+                         <a href="http://upis.mpn.gov.rs/Prethodna-godina-pretraga" class="Status2Invisible">Претходна година</a>                   
+                    </div>
+                     <div class="meni bt5">
+                          <a href="http://upis.mpn.gov.rs/Dokumenta" class="Status1Invisible">Dokumenta</a>
+                          <a href="http://upis.mpn.gov.rs/Dokumenta" class="Status2Invisible">Документа</a>                       
+                    </div>
+                     <div class="meni bt6">
+                          <a href="http://upis.mpn.gov.rs/Pravilnici" class="Status1Invisible">Pravilnik</a>
+                          <a href="http://upis.mpn.gov.rs/Pravilnici" class="Status2Invisible">Правилник</a>                       
+                    </div>
+                     <div class="meni bt7">
+                          <a href="http://upis.mpn.gov.rs/Kontakt" class="Status1Invisible">Kontakt</a>
+                          <a href="http://upis.mpn.gov.rs/Kontakt" class="Status2Invisible">Kонтакт</a>                      
+                    </div>
+                </div>
+            </div>            
+        </div>       
+        <div class="mobileheader bgd1  animated fadeInDown">                         
+                         <div class="mobilenavbutton">
+                              <a class="buttonmob icon-menu" id="dugme" href="#"></a>                       
+                         </div>
+                         <div id="jez_ik_2" class="mob_a txtright paddright">                          
+                              <a class="padd_10 jezik cir" href="KPKK-SC-4O13S.html?PromenaJezika=1&amp;Br=@br!">ЋИР</a>
+                             <a class="padd_10 jezik lat" href="http://upis.mpn.gov.rs/Lat/Srednje-skole/KPKK-SC-4O13S">LAT</a>                            
+                         </div>
+            
+         </div>
+         <div class="mobilenavopen">
+                           <ul class="mobile">
+                               <li class="txtright"><a class="menumobileclose icon-cross" id="closenavigation" href="#"></a></li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="http://upis.mpn.gov.rs/Pocetna">Početna strana</a>
+                                   <a class="menumobile Status2Invisible" href="http://upis.mpn.gov.rs/Pocetna">Почетна страна</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="http://upis.mpn.gov.rs../Ucenici">Podaci o učenicima</a>
+                                   <a class="menumobile Status2Invisible" href="http://upis.mpn.gov.rs../Ucenici">Подаци о ученицима</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="http://upis.mpn.gov.rs/Osnovne-skole-pretraga">Osnovne škole</a>
+                                   <a class="menumobile Status2Invisible" href="http://upis.mpn.gov.rs/Osnovne-skole-pretraga">Основне школе</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="http://upis.mpn.gov.rs/Srednje-skole-pretraga">Srednje škole i obrazovni profili</a>
+                                   <a class="menumobile Status2Invisible" href="http://upis.mpn.gov.rs/Srednje-skole-pretraga">Средње школе и образовни профили</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="http://upis.mpn.gov.rs/Prethodna-godina-pretraga">Prethodna godina</a>
+                                   <a class="menumobile Status2Invisible" href="http://upis.mpn.gov.rs/Prethodna-godina-pretraga">Претходна година</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="http://upis.mpn.gov.rs/Dokumenta">Dokumenta</a>
+                                   <a class="menumobile Status2Invisible" href="http://upis.mpn.gov.rs/Dokumenta">Документа</a>
+                               </li>
+
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="http://upis.mpn.gov.rs/Pravilnici">Pravilnici</a>
+                                   <a class="menumobile Status2Invisible" href="http://upis.mpn.gov.rs/Pravilnici">Правилници</a>
+                               </li>
+                               <li class="list">
+                                   <a class="menumobile Status1Invisible" href="http://upis.mpn.gov.rs/Kontakt">Kontakt</a>
+                                   <a class="menumobile Status2Invisible" href="http://upis.mpn.gov.rs/Kontakt">Kонтакт</a>
+                               </li>
+                          
+                           </ul>
+        </div>
+    </div>
+
+
+
+    <script >
+        var glavniMeni = [];
+
+        $(function () {
+
+            $('body').eInit();
+            $('.pozadina_css').css('min-height', $(window).height() - ($('.content').outerHeight() - $('.content').height()) - $('.za_visinu').outerHeight());
+        });
+
+        $(window).resize(function () { onResize() });
+
+        var onResize = function () { $('.pozadina_css').css('min-height', $(window).height() - ($('.content').outerHeight() - $('.content').height()) - $('.za_visinu').outerHeight()); }
+    </script>
+
+    <form id="form1" class="visina">
+        <div class="content relative">
+            
+            
+
+    <div class="cont  Srednja MediaSred nespecijalizovani" > 
+            <div class="row  ">
+                <div class="twelve columns ">
+                    <div class="rowInner">
+                        <div class="row paddtb SredPretraga za_visinu">
+                            <div class="two columns"><label></label></div>
+                            <div class="eight columns sekcija4">
+                                 <div class="row ">
+                                          <div class="row txtcenter naslov">
+                                             <h2 class="Status1Invisible">Srednja škola "<span dbf="NazivSkole2">Medicinska škola</span>"</h2>
+                                             <h2 class="Status2Invisible">Средња школа "<span dbf="NazivSkole1">Медицинска школа</span>"</h2>
+                                             <h2 class="Status2Invisible">INTERNAL DATA STREAM</h2>
+                                             <p class="subnaslov Status1Invisible">Spisak obrazovnih profila po školama i kvote sa spiskom upisanih učenika</p>                     
+                                             <p class="subnaslov Status2Invisible">Списак образовних профила по школама и квоте са списком уписаних ученика</p>
+                                             <p class="subnaslov Status2Invisible">VUKINTOSH &copy; 2022.</p>
+                                          </div> 
+                                 </div>
+                                 <div class="row paddtb">
+                                     <div class="six columns paddright ">
+                                         <div class="row paddtb">                                     
+                                                <div class="select icon-play" dbf="IDOkrug">
+                                                    <select onchange="IzaberiOkrug($(this));" doperator="=" dvalue="@val">                                               
+                                                        <option value="-1" class="Status2Invisible"> -- Изаберите округ -- </option>
+                                                        
+                                                    <option value="19">БОРСКИ</option><option value="11">БРАНИЧЕВСКИ</option><option value="8">ГРАД БЕОГРАД</option><option value="20">ЗАЈЕЧАРСКИ</option><option value="5">ЗАПАДНОБАЧКИ</option><option value="13">ЗЛАТИБОРСКИ</option><option value="21">ЈАБЛАНИЧКИ</option><option value="3">ЈУЖНОБАНАТСКИ</option><option value="6">ЈУЖНОБАЧКИ</option><option value="14">КОЛУБАРСКИ</option><option value="26">КОСОВСКИ</option><option value="27">КОСОВСКО МИТРОВАЧКИ</option><option value="28">КОСОВСКО ПОМОРАВСКИ</option><option value="15">МАЧВАНСКИ</option><option value="17">МОРАВИЧКИ</option><option value="25">НИШАВСКИ</option><option value="30">ПЕЋКИ</option><option value="23">ПИРОТСКИ</option><option value="12">ПОДУНАВСКИ</option><option value="10">ПОМОРАВСКИ</option><option value="29">ПРИЗРЕНСКИ</option><option value="22">ПЧИЊСКИ</option><option value="16">РАСИНСКИ</option><option value="18">РАШКИ</option><option value="1">СЕВЕРНОБАНАТСКИ</option><option value="4">СЕВЕРНОБАЧКИ</option><option value="2">СРЕДЊЕБАНАТСКИ</option><option value="7">СРЕМСКИ</option><option value="24">ТОПЛИЧКИ</option><option value="9">ШУМАДИЈСКИ</option></select>                                             
+                                                </div>                                     
+                                         </div>
+                                         <div class="row paddtb">
+                                                <div class="select icon-play" dbf="IDOpstina">
+                                                    <select onchange="IzaberiOpstinu($(this));" doperator="=" dvalue="@val">                                               
+                                                        <option value="-1" class="Status2Invisible"> -- Изаберите општину -- </option>
+                                                        
+                                                    <option value="153">Витина</option><option value="151">Гњилане</option><option value="152">Косовска Каменица</option><option value="190">Ново Брдо</option></select>                                              
+                                                </div>
+                                         </div>
+                                         <div class="row paddtb">
+                                                <div class="select icon-play" dbf="IDSkola">
+                                                    <select doperator="=" dvalue="@val">
+                                                        <option value="-1" class="Status2Invisible"> -- Изаберите средњу школу -- </option>
+                                                        
+                                                    <option value="486">Гимназија</option><option value="610">Гимназија Косовска Каменица - делатност ван седишта</option><option value="611">Економско-трговинска школа Гњилане</option><option value="612">Медицинска школа</option><option value="487">Техничка школа</option></select>                                  
+                                                </div>
+                                         </div>
+                                         <div class="row paddtb">
+                                                <div class="select icon-play" dbf="IDJezik">
+                                                    <select doperator="=" dvalue="@val">                                             
+                                                        <option value="-1" class="Status2Invisible"> -- Сви језици -- </option>
+                                                                                                           
+                                                    <option value="1">Српски</option><option value="2">Мађарски</option><option value="3">Румунски</option><option value="4">Русински</option><option value="5">Словачки</option><option value="6">Албански</option><option value="7">Турски</option><option value="8">Бугарски</option><option value="9">Хрватски</option><option value="10">Српско-Мађарски</option><option value="11">Српско-Енглески</option><option value="12">Српско-Француски</option><option value="13">Српско-Руски</option><option value="14">Српско-Немачки</option><option value="15">Српско-Италијански</option><option value="16">Босански</option></select>                                                
+                                                </div>
+                                         </div>
+                                     </div>
+                                     <div class="six columns paddleft">
+                                         <div class="row paddtb">
+                                                <div class="select right icon-play" dbf="PodrucjeRadaID">
+                                                    <select onchange="IzaberiPodrucjeRada($(this));" doperator="=" dvalue="@val">                                              
+                                                        <option value="-1" class="Status2Invisible"> -- Изаберите подручје рада -- </option>
+                                                        
+                                                    <option value="8">ГЕОДЕЗИЈА И ГРАЂЕВИНАРСТВО</option><option value="3">ГЕОЛОГИЈА, РУДАРСТВО И МЕТАЛУРГИЈА</option><option value="16">ГИМНАЗИЈА</option><option value="11">ЕКОНОМИЈА, ПРАВО И АДМИНИСТРАЦИЈА</option><option value="5">ЕЛЕКТРОТЕХНИКА</option><option value="14">ЗДРАВСТВО И СОЦИЈАЛНА ЗАШТИТА</option><option value="13">КУЛТУРА, УМЕТНОСТ И ЈАВНО ИНФОРМИСАЊЕ</option><option value="4">МАШИНСТВО И ОБРАДА МЕТАЛА</option><option value="15">ОСТАЛА ДЕЛАТНОСТ ЛИЧНИХ УСЛУГА</option><option value="1">ПОЉОПРИВРЕДА, ПРОИЗВОДЊА И ПРЕРАДА ХРАНЕ</option><option value="9">САОБРАЋАЈ</option><option value="7">ТЕКСТИЛСТВО И КОЖАРСТВО</option><option value="10">ТРГОВИНА, УГОСТИТЕЉСТВО И ТУРИЗАМ</option><option value="6">ХЕМИЈА, НЕМЕТАЛИ И ГРАФИЧАРСТВО</option><option value="12">ХИДРОМЕТЕОРОЛОГИЈА</option><option value="2">ШУМАРСТВО И ОБРАДА ДРВЕТА</option></select>                                        
+                                                </div>
+                                         </div>
+                                         <div class="row paddtb">
+                                                <div class="select right icon-play" dbf="ObrazovniProfilID">
+                                                    <select doperator="=" dvalue="@val">                                              
+                                                        <option value="-1" class="Status2Invisible"> -- Изаберите образовни профил -- </option>
+                                                        
+                                                    <option value="635">ГИНЕКОЛОШКО-АКУШЕРСКА СЕСТРА</option><option value="734">ЗДРАВСТВЕНИ НЕГОВАТЕЉ</option><option value="640">ЗУБНИ ТЕХНИЧАР</option><option value="643">КОЗМЕТИЧКИ ТЕХНИЧАР</option><option value="642">ЛАБОРАТОРИЈСКИ ТЕХНИЧАР</option><option value="761">МАСЕР</option><option value="644">МЕДИЦИНСКА СЕСТРА – ВАСПИТАЧ</option><option value="633">МЕДИЦИНСКА СЕСТРА – ТЕХНИЧАР</option><option value="634">ПЕДИЈАТРИЈСКА СЕСТРА – ТЕХНИЧАР</option><option value="636">САНИТАРНО-ЕКОЛОШКИ ТЕХНИЧАР</option><option value="639">СТОМАТОЛОШКА СЕСТРА – ТЕХНИЧАР</option><option value="641">ФАРМАЦЕУТСКИ ТЕХНИЧАР</option><option value="2155">ФАРМАЦЕУТСКИ ТЕХНИЧАР - ЕНГЛЕСКИ</option><option value="637">ФИЗИОТЕРАПЕУТСКИ ТЕХНИЧАР</option></select>                                                
+                                                </div>
+                                         </div>
+                                         <div class="row paddtb">
+                                                <div class="select right icon-play" dbf="Popunjen">
+                                                    <select doperator="in" dvalue="@val">                                              
+                                                        <option value="-1" class="Status2Invisible"> -- Сви профили -- </option>
+                                                        
+                                                        <option value="1,2" class="Status2Invisible">Непопуњени у првом кругу</option>
+                                                        
+                                                        <option value="2" class="Status2Invisible">Непопуњени након другог круга</option>
+                                                        
+                                                        <option value="1,3" class="Status2Invisible">Само попуњени</option>
+                                                        
+                                                    </select>                                             
+                                                </div>
+                                         </div>
+                                         <div class="row paddtb">                                          
+                                                <div class="btn dugme3 right">
+                                                    <a class="Status1Invisible" href="javascript:void(0);" onclick="IspisiDetalje();">Prikaži</a>
+                                                    <a class="Status2Invisible" href="javascript:void(0);" onclick="IspisiDetalje();">Прикажи</a>
+                                                </div>                                          
+                                         </div>
+                                     </div>                      
+                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row pozadinasrednja pozadina_css SrednjaPod marginsekcija">
+                        <div class="row pad1em">
+                            <div class="rowInner ">
+                                <div class="SredDBF">
+                                    <div class="row SrednjaDet">                                    
+                                        <div class="twelve columns">
+                                            <div class="row pad1em sifrauc">
+                                                <div class="three columns">
+                                                    <label></label>                                                                                     
+                                                </div>
+                                                <div class="four columns">
+                                                    <label class="Status1Invisible naziv">Šifra profila:</label>
+                                                    <label class="Status2Invisible naziv">Шифра профила:</label>                                            
+                                                </div>
+                                                <div class="five columns">
+                                                    <span class="forma  noinput" dbf="sifra">KPKK SC 4O13S</span>
+                                                </div>
+                                            </div>
+                                            <div class="row pad1em osnskola">
+                                                <div class="three columns">
+                                                    <label></label>                                                                                       
+                                                </div>
+                                                <div class="four columns">
+                                                    <label class="Status1Invisible naziv">Naziv školе:</label>
+                                                    <label class="Status2Invisible naziv">Назив школе:</label>                                                                                                                    
+                                                </div>
+                                                <div class="five columns">
+                                                        <span class="forma Status1Invisible noinput" dbf="NazivSkole2">Medicinska škola</span><span class="forma Status1Invisible noinput"></span>
+                                                        <span class="forma Status2Invisible noinput" dbf="NazivSkole1">Медицинска школа</span><span class="forma Status2Invisible noinput"></span>
+                                                </div>
+                                            </div>
+                                            <div class="row pad1em statusuc">
+                                                <div class="three columns">
+                                                    <label></label>                                                                                       
+                                                </div>
+                                                <div class="four columns">
+                                                    <label class="Status1Invisible naziv">Obrazovni profil:</label>
+                                                    <label class="Status2Invisible naziv">Образовни профил:</label>                      
+                                                </div>
+                                                <div class="five columns">
+                                                        <span class="forma Status1Invisible noinput" dbf="Profil2"></span><span class="forma Status1Invisible noinput dual" dbf="Dual1"></span>
+                                                        <span class="forma Status2Invisible noinput" dbf="Profil1">медицинска сестра – техничар</span><span class="forma Status2Invisible noinput dual" dbf="Dual2"></span>
+                                                </div>
+                                            </div>                                                                                     
+                                            <div class="row pad1em siva ">
+                                                <div class="three columns">
+                                                    <label></label>                                                                                       
+                                                </div>
+                                                <div class="four columns padbott">
+                                                    <label class="Status1Invisible naziv">Područje rada:</label>
+                                                    <label class="Status2Invisible naziv">Подручје рада:</label>                     
+                                                </div>
+                                                <div class="five columns">
+                                                        <span class="forma Status1Invisible noinput" dbf="Naziv2"></span>
+                                                        <span class="forma Status2Invisible noinput" dbf="Naziv1">ЗДРАВСТВО И СОЦИЈАЛНА ЗАШТИТА</span>
+                                                </div>
+                                            </div>
+                                            <div class="row pad1em siva Napomena nespecijalizovaniInvisible">
+                                                <div class="three columns">
+                                                    <label></label>                                                                                       
+                                                </div>
+                                                <div class="four columns padbott">
+                                                    <label class="Status1Invisible naziv">Napomena:</label>
+                                                    <label class="Status2Invisible naziv">Напомена:</label>                     
+                                                </div>
+                                                <div class="five columns">
+                                                        <span class="Status1Invisible">Profil je specijalizovani, da bi se upisao potrebno je polagati dodatni prijemni ispit ili ispuniti posebne uslove - <a href="http://upis.mpn.gov.rs/Pravilnici/">pravilnik</a></span>
+                                                        <span class="Status2Invisible">Профил је специјализовани, да би се уписао потребно је полагати додатни пријемни испит или испунити посебне услове - <a href="http://upis.mpn.gov.rs/Pravilnici/">правилник</a></span>
+                                                </div>
+                                            </div>
+                                            <div class="row pad1em siva Napomena DualVisible">
+                                                <div class="three columns">
+                                                    <label></label>                                                                                       
+                                                </div>
+                                                <div class="four columns padbott">
+                                                    <label class="Status1Invisible naziv">Napomena:</label>
+                                                    <label class="Status2Invisible naziv">Напомена:</label>                     
+                                                </div>
+                                                <div class="five columns tekstNapomene">
+                                                        <span class="Status1Invisible">Profil je realizovan po dualnom obrazovnom modelu koji predviđa poseban način upisa - <a href="http://upis.mpn.gov.rs/Pravilnici/20">pravilnik</a></span>
+                                                        <span class="Status2Invisible">Профил је реализован по дуалном образовном моделу који предвиђа посебан начин уписа - <a href="http://upis.mpn.gov.rs/Pravilnici/20">правилник</a></span>
+                                                </div>
+                                            </div>
+                                        </div>                               
+                                    </div>
+                                    <div class="SrednjaD">
+                                         <div class="sekcija marginsekcija">
+                                                    <div class="naslovsekcije pad1em">
+                                                        <label class="Status1Invisible ">Statistički podaci </label>
+                                                        <label class="Status2Invisible ">Статистички подаци </label>
+                                                    </div>
+                                                    <div class="telosekcije ">
+                                                        <div class="OSNPrikaz">
+                                                             <div class="druginivo row pad1em">
+                                                                <div class="twelve columns txtcenter">
+                                                                    <label class="Status1Invisible">Kvota</label>
+                                                                    <label class="Status2Invisible">Квота</label>                                                       
+                                                                </div>                                                   
+                                                             </div>                                                                                                               
+                                                             <div class="trecinivo row pad1em tabella">
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">kvota iz konkursa</label>
+                                                                    <label class="Status2Invisible">квота из конкурса</label>
+                                                                    <span class="right noinput" dbf="KvotaKonkurs">20</span>
+                                                                </div>
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">kvota umanjenje</label>
+                                                                    <label class="Status2Invisible">квота умањење</label>
+                                                                    <span class="right noinput" dbf="KvotaUmanjenje">0</span>
+                                                                </div>
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">kvota</label>
+                                                                    <label class="Status2Invisible">квота</label>
+                                                                    <span class="right noinput" dbf="Kvota">20</span>
+                                                                </div>
+                                                       
+                                               
+                                                             </div>
+                                                             <div class="row uputstvo paddtb">              
+                                                                    <div class="twelve columns paddright">
+                                                                        <p class="Status1Invisible">(*) Kvote iz konkursa se koriguju na osnovu odluka Okružne upisne komisije, donetih na osnovu<br> 
+                                                         - Zakona o osnovama sistema obrazovanja i vaspitanja ("Službeni glasnik RS", br. 88/17 i 27/18 - dr. zakon, 10/19 i 6/20) <br>
+                                                         - Zakona o srednjem obrazovanju i vaspitanju ("Službeni glasnik RS", br. 55/13, 101/17 i 27/18 - dr. zakon i 6/20) <br>
+                                                         - Pravilnika o upisu učenika u srednju školu ("Službeni glasnik RS", broj 76/20) <br>
+                                                         - Stručnog uputstva za sprovođenje upisa učenika u srednju školu za školsku 2020/2021. godinu, broj: 611-00-348/1/2020-03</p>
+                                                                        <p class="Status2Invisible">(*) Квоте из конкурса се коригују на основу одлука Окружне уписне комисије, донетих на основу<br> 
+                                                         - Закона о основама система образовања и васпитања ("Службени гласник РС", бр. 88/17 и 27/18 - др. закон, 10/19 и 6/20)  <br>
+                                                         - Закона о средњем образовању и васпитању ("Службени гласник РС", бр. 55/13, 101/17 и 27/18 - др. закон и 6/20)  <br>
+                                                         - Правилника о упису ученика у средњу школу ("Службени гласник РС", број 76/20) <br>
+                                                         - Стручног упутства за спровођење уписа ученика у средњу школу за школску 2020/2021. годину, број: 611-00-348/1/2020-03</p>
+                                                                    </div>              
+                                                             </div>
+                                                             <div class="druginivo row pad1em marginsekcija">
+                                                                    <div class="twelve columns txtcenter">
+                                                                        <label class="Status1Invisible">Prvi krug</label>
+                                                                        <label class="Status2Invisible">Први круг</label>                                                       
+                                                                    </div>                                                   
+                                                             </div>
+                                                        </div>
+                                                        <div class="OSNTabella">
+                                                            <div class="trecinivo row pad1em tabella">
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">upisano</label>
+                                                                    <label class="Status2Invisible">уписано</label>
+                                                                    <span class="right noinput" dbf="Upisano1K">20</span>
+                                                                </div>
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">min. bodova</label>
+                                                                    <label class="Status2Invisible">мин. бодова</label>
+                                                                    <span class="right noinput" dbf="MinBodova1K">72.52</span>
+                                                                </div>
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">rang učenika</label>
+                                                                    <label class="Status2Invisible">ранг ученика</label>
+                                                                    <span class="right noinput" dbf="Rang1K">54.49</span>
+                                                                </div>                                                                                                             
+                                                            </div>
+                                                            <div class="druginivo row pad1em">
+                                                                <div class="twelve columns txtcenter">
+                                                                    <label class="Status1Invisible">Drugi krug</label>
+                                                                    <label class="Status2Invisible">Други круг</label>                                                        
+                                                                </div>                                                   
+                                                            </div>
+                                                            <div class="trecinivo row pad1em tabella">
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">upisano</label>
+                                                                    <label class="Status2Invisible">уписано</label>
+                                                                    <span class="right noinput" dbf="Upisano2K">0</span>
+                                                                </div>
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">min. bodova</label>
+                                                                    <label class="Status2Invisible">мин. бодова</label>
+                                                                    <span class="right noinput" dbf="MinBodova2K">0.00</span>
+                                                                </div>
+                                                                <div class="four columns txtcenter">
+                                                                    <label class="Status1Invisible">rang učenika</label>
+                                                                    <label class="Status2Invisible">ранг ученика</label>
+                                                                    <span class="right noinput" dbf="Rang2K"></span>
+                                                                </div>                                                                                                               
+                                                            </div>
+                                                            <div class="row uputstvo paddtb">              
+                                                                    <div class="twelve columns paddright">
+                                                                        <p class="Status1Invisible">(*) rang učenika - procenat učenika u okrugu koji su bolje rangirani (imaju više bodova) od poslednjeg upisanog učenika na dati obrazovni profil</p>                                                                    
+                                                                        <p class="Status2Invisible">(*) ранг ученика - проценат ученика у округу који су боље рангирани (имају више бодова) од последњег уписаног ученика на дати образовни профил </p>
+                                                                    </div>               
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                         </div>
+                                    </div>
+                                </div>                      
+                            </div>
+                        </div>
+                            <div class="row pad1em SelectFilter">
+                                <div class="rowInner ">
+                                    <div class="row ">
+                                        <div class="four columns paddtb">
+                                            <label class="right sortirano Status1Invisible">Sortirano po:</label>
+                                            <label class="Status2Invisible right sortirano">Сортирано по:</label>
+                                        </div>
+                                        <div class="four columns paddesno paddtb">
+                                                <div class="select icon-play"  dbf="sortiranje1">
+                                                <select onchange="sortirajgrid($(this));">
+                                                    <option value=""  class="Status2Invisible"> -- Изаберите опцију -- </option>
+                                                    <option value=""  class="Status1Invisible"> -- Izaberite opciju -- </option>
+                                                        <option value="IDUcenik"  class="Status2Invisible"> Шифри ученика</option>
+                                                    <option value="IDUcenik"  class="Status1Invisible"> Šifri učenika </option>
+                                                    <option value="Skola1"  class="Status2Invisible"> Основној школи </option>
+                                                    <option value="Skola2"  class="Status1Invisible"> Osnovnoj školi </option>
+                                                    <option value="Bodova"  class="Status2Invisible"> Броју бодова </option>
+                                                    <option value="Bodova"  class="Status1Invisible"> Broju bodova </option>
+                                                    <option value="Krug"  class="Status2Invisible"> Кругу</option>
+                                                    <option value="Krug"  class="Status1Invisible"> Krugu </option>
+                                                                                                                       
+                                                </select>
+                                                </div>
+                                        </div>
+                                        <div class="four columns paddlevo paddtb">
+                                                <div class="select icon-play"  dbf="sortiranje2">
+                                                    <select onchange="sortirajgrid($(this));">                                                            
+                                                        <option value=" ASC"  class="Status2Invisible"> Растуће</option>
+                                                        <option value=" ASC"  class="Status1Invisible"> Rastuće </option>
+                                                        <option value=" DESC"  class="Status2Invisible"> Опадајуће</option>
+                                                        <option value=" DESC"  class="Status1Invisible"> Opadajuće</option>                    
+                                                    </select>
+                                                </div>
+                                        </div>                                                        
+                                    </div>
+                                </div>
+                                <div class="rowInner  Status2Invisible">
+                                    <div class="row  grid_scroll">
+                                        
+
+    <link href="../../css/eon_grid.min.css" rel="stylesheet" /> 
+    <link href="../../css/Animate.min.css" rel="stylesheet" />
+    <script src="../../js/eon_grid.min.js"></script>
+
+    <script type="text/javascript">
+        var gridid = 'wuc_Grid1';
+        window[gridid + 'initializing'] = true;
+        window[gridid + 'filter'] = null;
+        window[gridid + 'header'] = null;
+        window[gridid + 'buttons'] = null;
+
+        var gridMenuItems = '';
+
+        $(function () {
+
+            gridid = 'wuc_Grid1';
+            var myGrid = $('.eon_grid[IDGrid="' + gridid + '"]'); 
+            initGrid(myGrid, window[gridid + 'initializing']);
+            if (0 == 1) myGrid.find('.tbuttons .filterbtn ').trigger('click'); 
+
+            $('body').click(function () { myGrid.find('.kolona999999.active').removeClass('active'); });
+            window[gridid + 'initializing'] = false;
+        });
+
+        window['funkcija_' + gridid] = function (result) {
+
+            obj = window.obj;
+            gridid = 'wuc_Grid1';
+            obj.find('.grid_container').html(result);
+            obj.find('.thead').replaceWith(window[gridid + 'header']);
+            obj.find('.tfilter').replaceWith(window[gridid + 'filter']);
+            obj.find('.tbuttons').replaceWith(window[gridid + 'buttons']);
+
+            initGrid(obj);
+            obj.find('.grid_container').removeClass('grid_loading', 200);
+
+            if (obj.find('.hid_page').val() == '-1') obj.find('.hid_page').val(obj.find('.grid_page_no a.aktivna').text());
+
+            obj.find('.tbody div.tr .grid_cell:first-child .relative').each(function () {
+                $(this).attr('rb', obj.find('.grid_container .tbody div.tr .grid_cell:first-child .relative').index($(this)) + 1);
+            });
+        }
+
+        
+    </script>
+    
+    <div id="MainContent_wuc_Grid1_NotCallBack">
+        <script>
+
+        </script>
+    </div>
+
+    <div class="eon_grid" IDGrid="wuc_Grid1">
+
+
+        <div class="grid_container">
+            
+
+
+        <div class="row">
+            <div class="tbuttons">
+                <style >
+                    [idgrid="wuc_Grid1"] .tbuttons { display: none !important; }
+[idgrid="wuc_Grid1"] .btn.exportexcel { display: none !important; }
+[idgrid="wuc_Grid1"] .btn.filterbtn  { display: none !important; }
+
+                </style>
+                <div class="row">
+                
+                    <div class="three right">
+                        <label class="toggle right filterbtn bw square" style="margin:0 1em; height:auto;"> <span></span> </label>
+                        <label class="right" style=" min-height: auto;">Filter:</label>
+                     </div>
+                <div class="btn dugme3  right exportexcel "> <a id="A2" href="javascript:void(0);" class="entypo-circled-down" >Excel</a> </div>
+                </div>
+            </div>
+            <div class="thead">
+                
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter @rowID grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    Ученик
+                </div>
+            </div>
+        
+
+            <div class="kolona2  @rowID grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    Основна школа
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter @rowID grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    Број бодова
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter @rowID grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    Круг
+                </div>
+            </div>
+        </div>
+        
+            </div>
+            <div class="tfilter limited_height" style="display:none;">
+                
+            <div class="tr"> 
+            <div class="kolona1 txtcenter grid_cell" style="width:14.29%">
+                <input type="text" class="kolona1 txtcenter grid_filter input" dbf="LinkUcenik" value="" />
+            </div>
+        
+            <div class="kolona2  grid_cell" style="width:57.14%">
+                <input type="text" class="kolona2  grid_filter input" dbf="LinkSkola1" value="" />
+            </div>
+        
+            <div class="kolona3 txtcenter grid_cell" style="width:14.29%">
+                <input type="text" class="kolona3 txtcenter grid_filter input" dbf="sBodova" value="" />
+            </div>
+        
+            <div class="kolona4 txtcenter grid_cell" style="width:14.29%">
+                <input type="text" class="kolona4 txtcenter grid_filter input" dbf="Krug" value="" />
+            </div>
+        </div>
+                   
+            </div>
+            <div class="tbody relative">                  
+                
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red1 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/47790196" >47790196</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red1 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1929/-" >Десанка Максимовић (Косовска Каменица)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red1 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    98.05
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red1 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red2 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/37726811" >37726811</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red2 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/-" >Трајко Перић (Велико Ропотово)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red2 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    90.38
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red2 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red3 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/30242669" >30242669</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red3 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/-" >Трајко Перић (Велико Ропотово)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red3 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    88.58
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red3 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red4 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/25108410" >25108410</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red4 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1929/-" >Десанка Максимовић (Косовска Каменица)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red4 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    88.05
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red4 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red5 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/12144919" >12144919</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red5 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/-" >Вељко Дугошевић (Ранилуг)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red5 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    87.85
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red5 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red6 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/86259214" >86259214</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red6 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/-" >Трајко Перић (Велико Ропотово)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red6 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    86.20
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red6 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red7 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/14415695" >14415695</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red7 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/-" >Вељко Дугошевић (Ранилуг)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red7 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    84.76
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red7 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red8 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/95378892" >95378892</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red8 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1577/-" >Вук Караџић (Лесковац)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red8 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    84.10
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red8 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red9 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/78244813" >78244813</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red9 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1929/-" >Десанка Максимовић (Косовска Каменица)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red9 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    83.59
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red9 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red10 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/29606057" >29606057</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red10 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1952/-" >Јован Цвијић (Зубин Поток)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red10 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    83.18
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red10 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red11 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/31172828" >31172828</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red11 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/-" >Вељко Дугошевић (Ранилуг)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red11 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    82.92
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red11 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red12 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/39301981" >39301981</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red12 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/-" >Вељко Дугошевић (Ранилуг)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red12 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    81.37
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red12 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red13 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/59356612" >59356612</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red13 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1929/-" >Десанка Максимовић (Косовска Каменица)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red13 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    81.06
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red13 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red14 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/23413455" >23413455</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red14 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/-" >Вељко Дугошевић (Ранилуг)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red14 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    79.29
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red14 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red15 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/36461862" >36461862</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red15 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/-" >Трајко Перић (Велико Ропотово)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red15 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    77.96
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red15 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red16 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/20560481" >20560481</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red16 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1928/-" >Свети Сава (Јасеновик)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red16 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    77.06
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red16 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red17 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/49041539" >49041539</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red17 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/589/-" >Свети Сава (Младеновац)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red17 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    75.95
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red17 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red18 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="/Ucenici/23213776" >23213776</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red18 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1952/-" >Јован Цвијић (Зубин Поток)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red18 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    73.23
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red18 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red19 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/38178291" >38178291</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red19 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1616/-" >Радоје Домановић (Врање)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red19 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    73.16
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red19 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red20 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="../Ucenici/46250845" >46250845</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red20 grid_cell" style="width:57.14%" dbf="LinkSkola1">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/-" >Трајко Перић (Велико Ропотово)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red20 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    72.52
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red20 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+                <div class="grid_loading"><img alt="loading" src="../../images/loading.gif" /></div>
+                <div class="exporting"><img alt="exporting" src="../../images/exporting.gif" /></div>
+            </div>
+            <div class="tfoot">
+                
+                <div class="grid_broj_zapisa">
+                    <span class="Status1Invisible">Zapis </span><span class="Status2Invisible">Запис</span>  
+                    <span class="grid_start_index" >1</span>  
+                    <span class="Status1Invisible"> do</span><span class="Status2Invisible">до</span>
+                    <span class="grid_end_index" >20</span> 
+                    <span class="Status1Invisible"> ukupno </span><span class="Status2Invisible">укупно</span>
+                    <span class="grid_ukupno_zapisa" >20</span>
+                </div>
+                <div class="grid_preth_sl_strana prva_strana poslednja_strana">
+                    <div class="grid_page_no"><a href="javascript:void(0);" class="prva icon-first"  onclick="gridPageChange(event, this, 1);"></a></div>
+                    <div class="grid_page_no"><a href="javascript:void(0);" class="prethodna icon-play3" onclick="gridPageChange(event, this, -1, 0);"></a></div>
+                    <div class="grid_paginacija" style="margin: 0 0.1em;">
+                        
+            <div class="grid_page_no"><a class="aktivna" href="javascript:void(0);" onclick="gridPageChange(event, this, 1)">1</a></div>
+        
+                    </div>
+                    <div class="grid_page_no"><a href="javascript:void(0);" class="sledeca icon-play2" onclick="gridPageChange(event, this, 1, 0);"></a></div>
+                    <div class="grid_page_no"><a href="javascript:void(0);" class="poslednja icon-last" onclick="gridPageChange(event, this, 1);"></a></div>
+                </div>
+        
+            </div>
+            </div>
+    
+        </div>
+    
+        <input type="hidden" class="hid_filter" value="" id="hid_filter" name="hid_filter" />
+        <input type="hidden" class="hid_sort" value="" id="hid_sort" name="hid_sort" />
+        <input type="hidden" class="hid_page" value="1" id="hid_newPage" name="hid_newPage" />
+
+        <input type="hidden"  class="hid_idgrid" value="9" id="hid_idgrid" />
+        <input type="hidden"  class="hid_clientMode" value="" id="hid_clientMode" />
+        <input type="hidden"  class="hid_pagesize" value="-1" id="hid_pagesize" />
+        <input type="hidden"  class="hid_param1" value="KPKK SC 4O13S" id="hid_param1" />
+        <input type="hidden"  class="hid_param2" value="" id="hid_param2" />
+        <input type="hidden"  class="hid_param3" value="" id="hid_param3" />
+        <input type="hidden"  class="hid_param4" value="" id="hid_param4" />
+        <input type="hidden"  class="hid_idgrid" value="" id="hid_showFilterOnLoad" />
+        <input type="hidden"  class="hid_pocetniFilter" value="0" id="hid_pocetniFilter" />
+        <input type="hidden"  class="hid_stalniFilter" value="0" id="hid_stalniFilter" />
+        <input type="hidden"  class="hid_multiselect" value="0" id="hid_multiselect" />
+        <input type="hidden"  class="hid_naprednaPretraga" value="" id="hid_naprednaPretraga" />
+
+        <div id="grid_menu_template" class="grid_menu_template" style="display:none;" >
+            <span class="cog"> <a class="entypo-cog" href="javascript:void(0);" onclick="showGridMenu(event, this);"></a> </span>
+            <ul class="context_menu" style="display:none;"> @menuitems </ul>
+        </div>
+
+    </div>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+  
+
+
+
+                                    </div>
+                                    <div class="poluprovidnaBelaPozadina uputstvo ">
+                                        <p>Ученици са карактером "+" са леве стране бодова су остварили предност приликом уписа датог профила, а у складу са правилником уписа. </p><br />
+                                    </div>
+                                    <div  class="poluprovidnaBelaPozadina uputstvo">
+                                        <p>Ученици са уписаном звездицом (*) у рубрици бодова уписани су на основу одлука Окружне уписне комисије, донетих на основу<br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Закона о основама система образовања и васпитања ("Службени гласник РС", 88/17 и 27/18 - др. закон, 10/19 и 6/20)   <br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Закона о средњем образовању и васпитању ("Службени гласник РС", бр. 55/13, 101/17, 27/18 - др. закон и 6/20)   <br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Правилника о упису ученика у средњу школу ("Службени гласник РС", бр. 76/20)  <br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Стручног упутства за спровођење уписа ученика у средњу школу за школску 2020/2021. годину, број: 611-00-331/6/2020-03
+                                        </p> 
+                                    </div>
+                                </div>
+                                <div class="rowInner  Status1Invisible">
+                                    <div class="row  grid_scroll">
+                                        
+
+    <link href="../../css/eon_grid.min.css" rel="stylesheet" /> 
+    <link href="../../css/Animate.min.css" rel="stylesheet" />
+    <script src="../../js/eon_grid.min.js"></script>
+
+    <script type="text/javascript">
+        var gridid = 'wuc_Grid2';
+        window[gridid + 'initializing'] = true;
+        window[gridid + 'filter'] = null;
+        window[gridid + 'header'] = null;
+        window[gridid + 'buttons'] = null;
+
+        var gridMenuItems = '';
+
+        $(function () {
+
+            gridid = 'wuc_Grid2';
+            var myGrid = $('.eon_grid[IDGrid="' + gridid + '"]'); 
+            initGrid(myGrid, window[gridid + 'initializing']);
+            if (0 == 1) myGrid.find('.tbuttons .filterbtn ').trigger('click'); 
+
+            $('body').click(function () { myGrid.find('.kolona999999.active').removeClass('active'); });
+            window[gridid + 'initializing'] = false;
+        });
+
+        window['funkcija_' + gridid] = function (result) {
+
+            obj = window.obj;
+            gridid = 'wuc_Grid2';
+            obj.find('.grid_container').html(result);
+            obj.find('.thead').replaceWith(window[gridid + 'header']);
+            obj.find('.tfilter').replaceWith(window[gridid + 'filter']);
+            obj.find('.tbuttons').replaceWith(window[gridid + 'buttons']);
+
+            initGrid(obj);
+            obj.find('.grid_container').removeClass('grid_loading', 200);
+
+            if (obj.find('.hid_page').val() == '-1') obj.find('.hid_page').val(obj.find('.grid_page_no a.aktivna').text());
+
+            obj.find('.tbody div.tr .grid_cell:first-child .relative').each(function () {
+                $(this).attr('rb', obj.find('.grid_container .tbody div.tr .grid_cell:first-child .relative').index($(this)) + 1);
+            });
+        }
+
+        
+    </script>
+    
+    <div id="MainContent_wuc_Grid2_NotCallBack">
+        <script>
+
+        </script>
+    </div>
+
+    <div class="eon_grid" IDGrid="wuc_Grid2">
+
+
+        <div class="grid_container">
+            
+
+
+        <div class="row">
+            <div class="tbuttons">
+                <style >
+                    [idgrid="wuc_Grid2"] .tbuttons { display: none !important; }
+[idgrid="wuc_Grid2"] .btn.exportexcel { display: none !important; }
+[idgrid="wuc_Grid2"] .btn.filterbtn  { display: none !important; }
+
+                </style>
+                <div class="row">
+                
+                    <div class="three right">
+                        <label class="toggle right filterbtn bw square" style="margin:0 1em; height:auto;"> <span></span> </label>
+                        <label class="right" style=" min-height: auto;">Filter:</label>
+                     </div>
+                <div class="btn dugme3  right exportexcel "> <a id="A2" href="javascript:void(0);" class="entypo-circled-down" >Excel</a> </div>
+                </div>
+            </div>
+            <div class="thead">
+                
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter @rowID grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    Učenik
+                </div>
+            </div>
+        
+
+            <div class="kolona2  @rowID grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    Osnovna škola
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter @rowID grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    Broj bodova
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter @rowID grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    Krug
+                </div>
+            </div>
+        </div>
+        
+            </div>
+            <div class="tfilter limited_height" style="display:none;">
+                
+            <div class="tr"> 
+            <div class="kolona1 txtcenter grid_cell" style="width:14.29%">
+                <input type="text" class="kolona1 txtcenter grid_filter input" dbf="LinkUcenik" value="" />
+            </div>
+        
+            <div class="kolona2  grid_cell" style="width:57.14%">
+                <input type="text" class="kolona2  grid_filter input" dbf="LinkSkola2" value="" />
+            </div>
+        
+            <div class="kolona3 txtcenter grid_cell" style="width:14.29%">
+                <input type="text" class="kolona3 txtcenter grid_filter input" dbf="sBodova" value="" />
+            </div>
+        
+            <div class="kolona4 txtcenter grid_cell" style="width:14.29%">
+                <input type="text" class="kolona4 txtcenter grid_filter input" dbf="Krug" value="" />
+            </div>
+        </div>
+                   
+            </div>
+            <div class="tbody relative">                  
+                
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red1 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/47790196" >47790196</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red1 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1929/Desanka-Maksimovic" >Desanka Maksimović (Kosovska Kamenica)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red1 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    98.05
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red1 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red2 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/37726811" >37726811</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red2 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/Trajko-Peric" >Trajko Perić (Veliko Ropotovo)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red2 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    90.38
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red2 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red3 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/30242669" >30242669</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red3 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/Trajko-Peric" >Trajko Perić (Veliko Ropotovo)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red3 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    88.58
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red3 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red4 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/25108410" >25108410</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red4 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1929/Desanka-Maksimovic" >Desanka Maksimović (Kosovska Kamenica)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red4 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    88.05
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red4 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red5 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/12144919" >12144919</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red5 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/Veljko-Dugosevic" >Veljko Dugošević (Ranilug)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red5 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    87.85
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red5 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red6 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/86259214" >86259214</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red6 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/Trajko-Peric" >Trajko Perić (Veliko Ropotovo)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red6 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    86.20
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red6 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red7 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/14415695" >14415695</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red7 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/Veljko-Dugosevic" >Veljko Dugošević (Ranilug)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red7 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    84.76
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red7 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red8 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/95378892" >95378892</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red8 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1577/Vuk-Karadzic" >Vuk Karadžić (Leskovac)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red8 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    84.10
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red8 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red9 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/78244813" >78244813</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red9 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1929/Desanka-Maksimovic" >Desanka Maksimović (Kosovska Kamenica)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red9 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    83.59
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red9 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red10 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/29606057" >29606057</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red10 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1952/Jovan-Cvijic" >Jovan Cvijić (Zubin Potok)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red10 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    83.18
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red10 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red11 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/31172828" >31172828</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red11 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/Veljko-Dugosevic" >Veljko Dugošević (Ranilug)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red11 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    82.92
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red11 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red12 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/39301981" >39301981</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red12 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/Veljko-Dugosevic" >Veljko Dugošević (Ranilug)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red12 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    81.37
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red12 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red13 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/59356612" >59356612</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red13 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1929/Desanka-Maksimovic" >Desanka Maksimović (Kosovska Kamenica)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red13 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    81.06
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red13 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red14 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/23413455" >23413455</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red14 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1930/Veljko-Dugosevic" >Veljko Dugošević (Ranilug)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red14 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    79.29
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red14 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red15 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/36461862" >36461862</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red15 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/Trajko-Peric" >Trajko Perić (Veliko Ropotovo)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red15 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    77.96
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red15 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red16 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/20560481" >20560481</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red16 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1928/Sveti-Sava" >Sveti Sava (Jasenovik)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red16 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    77.06
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red16 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red17 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/49041539" >49041539</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red17 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/589/Sveti-Sava" >Sveti Sava (Mladenovac)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red17 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    75.95
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red17 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red18 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/23213776" >23213776</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red18 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1952/Jovan-Cvijic" >Jovan Cvijić (Zubin Potok)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red18 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    73.23
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red18 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red19 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/38178291" >38178291</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red19 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1616/Radoje-Domanovic" >Radoje Domanović (Vranje)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red19 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    73.16
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red19 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+            <div class="tr"> 
+
+            <div class="kolona1 txtcenter red20 grid_cell" style="width:14.29%" dbf="LinkUcenik">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs../Ucenici/46250845" >46250845</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona2  red20 grid_cell" style="width:57.14%" dbf="LinkSkola2">
+                <div class="relative">
+                    <a href="http://upis.mpn.gov.rs/Osnovne-skole/1931/Trajko-Peric" >Trajko Perić (Veliko Ropotovo)</a>
+                </div>
+            </div>
+        
+
+            <div class="kolona3 txtcenter red20 grid_cell" style="width:14.29%" dbf="sBodova">
+                <div class="relative">
+                    72.52
+                </div>
+            </div>
+        
+
+            <div class="kolona4 txtcenter red20 grid_cell" style="width:14.29%" dbf="Krug">
+                <div class="relative">
+                    1
+                </div>
+            </div>
+        </div>
+        
+                <div class="grid_loading"><img alt="loading" src="../../images/loading.gif" /></div>
+                <div class="exporting"><img alt="exporting" src="../../images/exporting.gif" /></div>
+            </div>
+            <div class="tfoot">
+                
+                <div class="grid_broj_zapisa">
+                    <span class="Status1Invisible">Zapis </span><span class="Status2Invisible">Запис</span>  
+                    <span class="grid_start_index" >1</span>  
+                    <span class="Status1Invisible"> do</span><span class="Status2Invisible">до</span>
+                    <span class="grid_end_index" >20</span> 
+                    <span class="Status1Invisible"> ukupno </span><span class="Status2Invisible">укупно</span>
+                    <span class="grid_ukupno_zapisa" >20</span>
+                </div>
+                <div class="grid_preth_sl_strana prva_strana poslednja_strana">
+                    <div class="grid_page_no"><a href="javascript:void(0);" class="prva icon-first"  onclick="gridPageChange(event, this, 1);"></a></div>
+                    <div class="grid_page_no"><a href="javascript:void(0);" class="prethodna icon-play3" onclick="gridPageChange(event, this, -1, 0);"></a></div>
+                    <div class="grid_paginacija" style="margin: 0 0.1em;">
+                        
+            <div class="grid_page_no"><a class="aktivna" href="javascript:void(0);" onclick="gridPageChange(event, this, 1)">1</a></div>
+        
+                    </div>
+                    <div class="grid_page_no"><a href="javascript:void(0);" class="sledeca icon-play2" onclick="gridPageChange(event, this, 1, 0);"></a></div>
+                    <div class="grid_page_no"><a href="javascript:void(0);" class="poslednja icon-last" onclick="gridPageChange(event, this, 1);"></a></div>
+                </div>
+        
+            </div>
+            </div>
+    
+        </div>
+    
+        <input type="hidden" class="hid_filter" value="" id="hid_filter" name="hid_filter" />
+        <input type="hidden" class="hid_sort" value="" id="hid_sort" name="hid_sort" />
+        <input type="hidden" class="hid_page" value="1" id="hid_newPage" name="hid_newPage" />
+
+        <input type="hidden"  class="hid_idgrid" value="10" id="hid_idgrid" />
+        <input type="hidden"  class="hid_clientMode" value="" id="hid_clientMode" />
+        <input type="hidden"  class="hid_pagesize" value="-1" id="hid_pagesize" />
+        <input type="hidden"  class="hid_param1" value="KPKK SC 4O13S" id="hid_param1" />
+        <input type="hidden"  class="hid_param2" value="" id="hid_param2" />
+        <input type="hidden"  class="hid_param3" value="" id="hid_param3" />
+        <input type="hidden"  class="hid_param4" value="" id="hid_param4" />
+        <input type="hidden"  class="hid_idgrid" value="" id="hid_showFilterOnLoad" />
+        <input type="hidden"  class="hid_pocetniFilter" value="0" id="hid_pocetniFilter" />
+        <input type="hidden"  class="hid_stalniFilter" value="0" id="hid_stalniFilter" />
+        <input type="hidden"  class="hid_multiselect" value="0" id="hid_multiselect" />
+        <input type="hidden"  class="hid_naprednaPretraga" value="" id="hid_naprednaPretraga" />
+
+        <div id="grid_menu_template" class="grid_menu_template" style="display:none;" >
+            <span class="cog"> <a class="entypo-cog" href="javascript:void(0);" onclick="showGridMenu(event, this);"></a> </span>
+            <ul class="context_menu" style="display:none;"> @menuitems </ul>
+        </div>
+
+    </div>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+  
+
+
+
+                                    </div>
+                                    <div  class="poluprovidnaBelaPozadina uputstvo ">
+                                        <p> Učenici sa karakterom "+" sa leve strane bodova su ostvarili prednost prilikom upisa datog profila, a u skladu sa privilnikom upisa. <br /></p>  
+                                    </div>
+                                    <div  class="poluprovidnaBelaPozadina uputstvo">
+                                        <p> Učenici sa upisanom zvezdicom (*) u rubrici za bodove upisani su na osnovu odluka Okružne upisne komisije, donetih na osnovu<br />
+                                                                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Zakona o osnovama sistema obrazovanja i vaspitanja ("Službeni glasnik RS", 88/17 i 27/18 - dr. zakon, 10/19 i 6/20)  <br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Zakona o srednjem obrazovanju i vaspitanju ("Službeni glasnik RS", br. 55/13, 101/17, 27/18 - dr. zakon i 6/20)   <br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pravilnika o upisu učenika u srednju školu ("Službeni glasnik RS", br. 76/20) <br />
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Stručnog uputstva za sprovođenje upisa učenika u srednju školu za školsku 2020/2021. godinu, broj: 611-00-348/6/2020-03
+                                        </p>
+                                    </div>
+                                </div>
+                           </div>                   
+                    </div>                    
+                </div>
+            </div>
+    </div>
+    
+    
+
+
+        <script>
+
+              
+            var detalji = [{"sifra":"KPKK SC 4O13S","IDSkola":"612","IDOpstina":"152","IDOkrug":"28","IDObrazovniProfil":"633","ObrazovniProfilID":"633","IDPodrucjeRada":"14","PodrucjeRadaID":"14","KvotaKonkurs":"20","KvotaUmanjenje":"0","Kvota":"20","Upisano1K":"20","MinBodova1K":"72.52","Kvota2K":"0         ","Upisano2K":"0","MinBodova2K":"0.00","NazivSkole1":"Медицинска школа","NazivSkole2":"Medicinska škola","TipProfila":"","Profil1":"медицинска сестра – техничар","Naziv1":"ЗДРАВСТВО И СОЦИЈАЛНА ЗАШТИТА","Popunjen":"3","IDJezik":"1","IDTO":"1","Trajanje":"2","IDSegmentPravilnika":"","Rang1K":"54.49","Rang2K":"","Dual":"false"}];
+            var okruzi = [{"id":"19","naziv":"БОРСКИ"},{"id":"11","naziv":"БРАНИЧЕВСКИ"},{"id":"8","naziv":"ГРАД БЕОГРАД"},{"id":"20","naziv":"ЗАЈЕЧАРСКИ"},{"id":"5","naziv":"ЗАПАДНОБАЧКИ"},{"id":"13","naziv":"ЗЛАТИБОРСКИ"},{"id":"21","naziv":"ЈАБЛАНИЧКИ"},{"id":"3","naziv":"ЈУЖНОБАНАТСКИ"},{"id":"6","naziv":"ЈУЖНОБАЧКИ"},{"id":"14","naziv":"КОЛУБАРСКИ"},{"id":"26","naziv":"КОСОВСКИ"},{"id":"27","naziv":"КОСОВСКО МИТРОВАЧКИ"},{"id":"28","naziv":"КОСОВСКО ПОМОРАВСКИ"},{"id":"15","naziv":"МАЧВАНСКИ"},{"id":"17","naziv":"МОРАВИЧКИ"},{"id":"25","naziv":"НИШАВСКИ"},{"id":"30","naziv":"ПЕЋКИ"},{"id":"23","naziv":"ПИРОТСКИ"},{"id":"12","naziv":"ПОДУНАВСКИ"},{"id":"10","naziv":"ПОМОРАВСКИ"},{"id":"29","naziv":"ПРИЗРЕНСКИ"},{"id":"22","naziv":"ПЧИЊСКИ"},{"id":"16","naziv":"РАСИНСКИ"},{"id":"18","naziv":"РАШКИ"},{"id":"1","naziv":"СЕВЕРНОБАНАТСКИ"},{"id":"4","naziv":"СЕВЕРНОБАЧКИ"},{"id":"2","naziv":"СРЕДЊЕБАНАТСКИ"},{"id":"7","naziv":"СРЕМСКИ"},{"id":"24","naziv":"ТОПЛИЧКИ"},{"id":"9","naziv":"ШУМАДИЈСКИ"}];
+            var opstine = [{"id":"1","naziv":"Ада","IDOkrug":"1"},{"id":"98","naziv":"Александровац","IDOkrug":"16"},{"id":"140","naziv":"Алексинац","IDOkrug":"25"},{"id":"11","naziv":"Алибунар","IDOkrug":"3"},{"id":"19","naziv":"Апатин","IDOkrug":"5"},{"id":"55","naziv":"Аранђеловац","IDOkrug":"9"},{"id":"76","naziv":"Ариље","IDOkrug":"13"},{"id":"132","naziv":"Бабушница","IDOkrug":"23"},{"id":"77","naziv":"Бајина Башта","IDOkrug":"13"},{"id":"50","naziv":"Барајево","IDOkrug":"8"},{"id":"56","naziv":"Баточина","IDOkrug":"9"},{"id":"23","naziv":"Бач","IDOkrug":"6"},{"id":"24","naziv":"Бачка Паланка","IDOkrug":"6"},{"id":"17","naziv":"Бачка Топола","IDOkrug":"4"},{"id":"25","naziv":"Бачки Петровац","IDOkrug":"6"},{"id":"133","naziv":"Бела Паланка","IDOkrug":"23"},{"id":"12","naziv":"Бела Црква","IDOkrug":"3"},{"id":"174","naziv":"Беочин","IDOkrug":"6"},{"id":"157","naziv":"Бечеј","IDOkrug":"6"},{"id":"136","naziv":"Блаце","IDOkrug":"24"},{"id":"94","naziv":"Богатић","IDOkrug":"15"},{"id":"124","naziv":"Бојник","IDOkrug":"21"},{"id":"117","naziv":"Бољевац","IDOkrug":"20"},{"id":"112","naziv":"Бор","IDOkrug":"19"},{"id":"129","naziv":"Босилеград","IDOkrug":"22"},{"id":"99","naziv":"Брус","IDOkrug":"16"},{"id":"127","naziv":"Бујановац","IDOkrug":"22"},{"id":"86","naziv":"Ваљево","IDOkrug":"14"},{"id":"102","naziv":"Варварин","IDOkrug":"16"},{"id":"74","naziv":"Велика Плана","IDOkrug":"12"},{"id":"68","naziv":"Велико Градиште","IDOkrug":"11"},{"id":"153","naziv":"Витина","IDOkrug":"28"},{"id":"96","naziv":"Владимирци","IDOkrug":"15"},{"id":"158","naziv":"Владичин Хан","IDOkrug":"22"},{"id":"121","naziv":"Власотинце","IDOkrug":"21"},{"id":"41","naziv":"Вождовац","IDOkrug":"8"},{"id":"126","naziv":"Врање","IDOkrug":"22"},{"id":"42","naziv":"Врачар","IDOkrug":"8"},{"id":"26","naziv":"Врбас","IDOkrug":"6"},{"id":"108","naziv":"Врњачка Бања","IDOkrug":"18"},{"id":"13","naziv":"Вршац","IDOkrug":"3"},{"id":"188","naziv":"Вучитрн","IDOkrug":"27"},{"id":"166","naziv":"Гаџин Хан","IDOkrug":"25"},{"id":"176","naziv":"Глоговац","IDOkrug":"26"},{"id":"151","naziv":"Гњилане","IDOkrug":"28"},{"id":"162","naziv":"Голубац","IDOkrug":"11"},{"id":"154","naziv":"Гора","IDOkrug":"29"},{"id":"103","naziv":"Горњи Милановац","IDOkrug":"17"},{"id":"51","naziv":"Гроцка","IDOkrug":"8"},{"id":"62","naziv":"Деспотовац","IDOkrug":"10"},{"id":"181","naziv":"Дечани","IDOkrug":"30"},{"id":"134","naziv":"Димитровград","IDOkrug":"23"},{"id":"167","naziv":"Дољевац","IDOkrug":"25"},{"id":"184","naziv":"Ђаковица","IDOkrug":"30"},{"id":"27","naziv":"Жабаљ","IDOkrug":"6"},{"id":"163","naziv":"Жабари","IDOkrug":"11"},{"id":"72","naziv":"Жагубица","IDOkrug":"11"},{"id":"171","naziv":"Житиште","IDOkrug":"2"},{"id":"137","naziv":"Житорађа","IDOkrug":"24"},{"id":"116","naziv":"Зајечар","IDOkrug":"20"},{"id":"44","naziv":"Звездара","IDOkrug":"8"},{"id":"148","naziv":"Звечан","IDOkrug":"27"},{"id":"48","naziv":"Земун","IDOkrug":"8"},{"id":"7","naziv":"Зрењанин","IDOkrug":"2"},{"id":"150","naziv":"Зубин Поток","IDOkrug":"27"},{"id":"105","naziv":"Ивањица","IDOkrug":"17"},{"id":"33","naziv":"Инђија","IDOkrug":"7"},{"id":"175","naziv":"Ириг","IDOkrug":"7"},{"id":"182","naziv":"Исток","IDOkrug":"30"},{"id":"65","naziv":"Јагодина","IDOkrug":"10"},{"id":"3","naziv":"Кањижа","IDOkrug":"1"},{"id":"177","naziv":"Качаник","IDOkrug":"26"},{"id":"2","naziv":"Кикинда","IDOkrug":"1"},{"id":"114","naziv":"Кладово","IDOkrug":"19"},{"id":"183","naziv":"Клина","IDOkrug":"30"},{"id":"57","naziv":"Кнић","IDOkrug":"9"},{"id":"118","naziv":"Књажевац","IDOkrug":"20"},{"id":"14","naziv":"Ковачица","IDOkrug":"3"},{"id":"15","naziv":"Ковин","IDOkrug":"3"},{"id":"78","naziv":"Косјерић","IDOkrug":"13"},{"id":"178","naziv":"Косово Поље","IDOkrug":"26"},{"id":"152","naziv":"Косовска Каменица","IDOkrug":"28"},{"id":"147","naziv":"Косовска Митровица","IDOkrug":"27"},{"id":"192","naziv":"Костолац","IDOkrug":"11"},{"id":"95","naziv":"Коцељева","IDOkrug":"15"},{"id":"58","naziv":"Крагујевац","IDOkrug":"9"},{"id":"107","naziv":"Краљево","IDOkrug":"18"},{"id":"91","naziv":"Крупањ","IDOkrug":"15"},{"id":"100","naziv":"Крушевац","IDOkrug":"16"},{"id":"20","naziv":"Кула","IDOkrug":"5"},{"id":"139","naziv":"Куршумлија","IDOkrug":"24"},{"id":"69","naziv":"Кучево","IDOkrug":"11"},{"id":"54","naziv":"Лазаревац","IDOkrug":"8"},{"id":"87","naziv":"Лајковац","IDOkrug":"14"},{"id":"60","naziv":"Лапово","IDOkrug":"9"},{"id":"123","naziv":"Лебане","IDOkrug":"21"},{"id":"149","naziv":"Лепосавић","IDOkrug":"27"},{"id":"120","naziv":"Лесковац","IDOkrug":"21"},{"id":"159","naziv":"Липљан","IDOkrug":"26"},{"id":"90","naziv":"Лозница","IDOkrug":"15"},{"id":"106","naziv":"Лучани","IDOkrug":"17"},{"id":"88","naziv":"Љиг","IDOkrug":"14"},{"id":"92","naziv":"Љубовија","IDOkrug":"15"},{"id":"113","naziv":"Мајданпек","IDOkrug":"19"},{"id":"97","naziv":"Мали Зворник","IDOkrug":"15"},{"id":"170","naziv":"Мали Иђош","IDOkrug":"4"},{"id":"164","naziv":"Мало Црниће","IDOkrug":"11"},{"id":"122","naziv":"Медвеђа","IDOkrug":"21"},{"id":"168","naziv":"Мерошина","IDOkrug":"25"},{"id":"161","naziv":"Мионица","IDOkrug":"14"},{"id":"49","naziv":"Младеновац","IDOkrug":"8"},{"id":"115","naziv":"Неготин","IDOkrug":"19"},{"id":"142","naziv":"Ниш","IDOkrug":"25"},{"id":"79","naziv":"Нова Варош","IDOkrug":"13"},{"id":"8","naziv":"Нова Црња","IDOkrug":"2"},{"id":"47","naziv":"Нови Београд","IDOkrug":"8"},{"id":"9","naziv":"Нови Бечеј","IDOkrug":"2"},{"id":"4","naziv":"Нови Кнежевац","IDOkrug":"1"},{"id":"109","naziv":"Нови Пазар","IDOkrug":"18"},{"id":"28","naziv":"Нови Сад","IDOkrug":"6"},{"id":"190","naziv":"Ново Брдо","IDOkrug":"28"},{"id":"144","naziv":"Обилић","IDOkrug":"26"},{"id":"52","naziv":"Обреновац","IDOkrug":"8"},{"id":"172","naziv":"Опово","IDOkrug":"3"},{"id":"155","naziv":"Ораховац","IDOkrug":"29"},{"id":"160","naziv":"Осечина","IDOkrug":"14"},{"id":"21","naziv":"Оџаци","IDOkrug":"5"},{"id":"43","naziv":"Палилула","IDOkrug":"8"},{"id":"16","naziv":"Панчево","IDOkrug":"3"},{"id":"63","naziv":"Параћин","IDOkrug":"10"},{"id":"70","naziv":"Петровац на Млави","IDOkrug":"11"},{"id":"156","naziv":"Пећ","IDOkrug":"30"},{"id":"34","naziv":"Пећинци","IDOkrug":"7"},{"id":"135","naziv":"Пирот","IDOkrug":"23"},{"id":"173","naziv":"Пландиште","IDOkrug":"3"},{"id":"145","naziv":"Подујево","IDOkrug":"26"},{"id":"71","naziv":"Пожаревац","IDOkrug":"11"},{"id":"80","naziv":"Пожега","IDOkrug":"13"},{"id":"130","naziv":"Прешево","IDOkrug":"22"},{"id":"81","naziv":"Прибој","IDOkrug":"13"},{"id":"186","naziv":"Призрен","IDOkrug":"29"},{"id":"82","naziv":"Пријепоље","IDOkrug":"13"},{"id":"143","naziv":"Приштина","IDOkrug":"26"},{"id":"138","naziv":"Прокупље","IDOkrug":"24"},{"id":"169","naziv":"Ражањ","IDOkrug":"25"},{"id":"45","naziv":"Раковица","IDOkrug":"8"},{"id":"59","naziv":"Рача","IDOkrug":"9"},{"id":"110","naziv":"Рашка","IDOkrug":"18"},{"id":"64","naziv":"Рековац","IDOkrug":"10"},{"id":"35","naziv":"Рума","IDOkrug":"7"},{"id":"40","naziv":"Савски венац","IDOkrug":"8"},{"id":"66","naziv":"Свилајнац","IDOkrug":"10"},{"id":"141","naziv":"Сврљиг","IDOkrug":"25"},{"id":"5","naziv":"Сента","IDOkrug":"1"},{"id":"10","naziv":"Сечањ","IDOkrug":"2"},{"id":"83","naziv":"Сјеница","IDOkrug":"13"},{"id":"75","naziv":"Смедерево","IDOkrug":"12"},{"id":"73","naziv":"Смедеревска Паланка","IDOkrug":"12"},{"id":"119","naziv":"Сокобања","IDOkrug":"20"},{"id":"22","naziv":"Сомбор","IDOkrug":"5"},{"id":"53","naziv":"Сопот","IDOkrug":"8"},{"id":"189","naziv":"Србица","IDOkrug":"27"},{"id":"29","naziv":"Србобран","IDOkrug":"6"},{"id":"36","naziv":"Сремска Митровица","IDOkrug":"7"},{"id":"30","naziv":"Сремски Карловци","IDOkrug":"6"},{"id":"37","naziv":"Стара Пазова","IDOkrug":"7"},{"id":"39","naziv":"Стари град","IDOkrug":"8"},{"id":"18","naziv":"Суботица","IDOkrug":"4"},{"id":"187","naziv":"Сува Река","IDOkrug":"29"},{"id":"128","naziv":"Сурдулица","IDOkrug":"22"},{"id":"193","naziv":"Сурчин","IDOkrug":"8"},{"id":"31","naziv":"Темерин","IDOkrug":"6"},{"id":"32","naziv":"Тител","IDOkrug":"6"},{"id":"61","naziv":"Топола","IDOkrug":"9"},{"id":"131","naziv":"Трговиште","IDOkrug":"22"},{"id":"101","naziv":"Трстеник","IDOkrug":"16"},{"id":"111","naziv":"Тутин","IDOkrug":"18"},{"id":"165","naziv":"Ћићевац","IDOkrug":"16"},{"id":"67","naziv":"Ћуприја","IDOkrug":"10"},{"id":"89","naziv":"Уб","IDOkrug":"14"},{"id":"84","naziv":"Ужице","IDOkrug":"13"},{"id":"179","naziv":"Урошевац","IDOkrug":"26"},{"id":"191","naziv":"Црна Трава","IDOkrug":"21"},{"id":"85","naziv":"Чајетина","IDOkrug":"13"},{"id":"104","naziv":"Чачак","IDOkrug":"17"},{"id":"6","naziv":"Чока","IDOkrug":"1"},{"id":"46","naziv":"Чукарица","IDOkrug":"8"},{"id":"93","naziv":"Шабац","IDOkrug":"15"},{"id":"38","naziv":"Шид","IDOkrug":"7"},{"id":"180","naziv":"Штимље","IDOkrug":"26"},{"id":"146","naziv":"Штрпце","IDOkrug":"26"}];
+            var skolee =  [{"id":"486","naziv":"Гимназија"},{"id":"610","naziv":"Гимназија Косовска Каменица - делатност ван седишта"},{"id":"611","naziv":"Економско-трговинска школа Гњилане"},{"id":"612","naziv":"Медицинска школа"},{"id":"487","naziv":"Техничка школа"}];
+            var podrucjerada = [{"id":"8","naziv":"ГЕОДЕЗИЈА И ГРАЂЕВИНАРСТВО"},{"id":"3","naziv":"ГЕОЛОГИЈА, РУДАРСТВО И МЕТАЛУРГИЈА"},{"id":"16","naziv":"ГИМНАЗИЈА"},{"id":"11","naziv":"ЕКОНОМИЈА, ПРАВО И АДМИНИСТРАЦИЈА"},{"id":"5","naziv":"ЕЛЕКТРОТЕХНИКА"},{"id":"14","naziv":"ЗДРАВСТВО И СОЦИЈАЛНА ЗАШТИТА"},{"id":"13","naziv":"КУЛТУРА, УМЕТНОСТ И ЈАВНО ИНФОРМИСАЊЕ"},{"id":"4","naziv":"МАШИНСТВО И ОБРАДА МЕТАЛА"},{"id":"15","naziv":"ОСТАЛА ДЕЛАТНОСТ ЛИЧНИХ УСЛУГА"},{"id":"1","naziv":"ПОЉОПРИВРЕДА, ПРОИЗВОДЊА И ПРЕРАДА ХРАНЕ"},{"id":"9","naziv":"САОБРАЋАЈ"},{"id":"7","naziv":"ТЕКСТИЛСТВО И КОЖАРСТВО"},{"id":"10","naziv":"ТРГОВИНА, УГОСТИТЕЉСТВО И ТУРИЗАМ"},{"id":"6","naziv":"ХЕМИЈА, НЕМЕТАЛИ И ГРАФИЧАРСТВО"},{"id":"12","naziv":"ХИДРОМЕТЕОРОЛОГИЈА"},{"id":"2","naziv":"ШУМАРСТВО И ОБРАДА ДРВЕТА"}];
+            var profil = [{"id":"3019","naziv":"АВИОМЕХАТРОНИЧАР","PodrucjeRadaID":"4"},{"id":"900039","naziv":"АВИО-ТЕХНИЧАР","PodrucjeRadaID":"4"},{"id":"3045","naziv":"АВИО-ТЕХНИЧАР - ЕНГЛЕСКИ","PodrucjeRadaID":"4"},{"id":"1581","naziv":"АВИО-ТЕХНИЧАР ЗА ВАЗДУХОПЛОВ И МОТОР","PodrucjeRadaID":"4"},{"id":"1583","naziv":"АВИО-ТЕХНИЧАР ЗА ЕЛЕКТРО ОПРЕМУ ВАЗДУХОПЛОВА","PodrucjeRadaID":"4"},{"id":"1582","naziv":"АВИО-ТЕХНИЧАР ЗА ЕЛЕКТРОНСКУ ОПРЕМУ ВАЗДУХОПЛОВА","PodrucjeRadaID":"4"},{"id":"1520","naziv":"АДМИНИСТРАТОР РАЧУНАРСКИХ МРЕЖА","PodrucjeRadaID":"5"},{"id":"1526","naziv":"АРАНЖЕР","PodrucjeRadaID":"13"},{"id":"568","naziv":"АРАНЖЕР У ТРГОВИНИ","PodrucjeRadaID":"10"},{"id":"2049","naziv":"АРХИТЕКТОНСКИ ТЕХНИЧАР","PodrucjeRadaID":"8"},{"id":"285","naziv":"АУТОЕЛЕКТРИЧАР","PodrucjeRadaID":"5"},{"id":"177","naziv":"АУТОЛИМАР","PodrucjeRadaID":"4"},{"id":"182","naziv":"АУТОМЕХАНИЧАР","PodrucjeRadaID":"4"},{"id":"175","naziv":"БРАВАР","PodrucjeRadaID":"4"},{"id":"1612","naziv":"БРАВАР - ЗАВАРИВАЧ","PodrucjeRadaID":"4"},{"id":"900081","naziv":"БРОДОВОЂА","PodrucjeRadaID":"9"},{"id":"163","naziv":"БРОДОМАШИНСКИ ТЕХНИЧАР","PodrucjeRadaID":"4"},{"id":"3018","naziv":"БРОДОМОНТЕР","PodrucjeRadaID":"4"},{"id":"3","naziv":"ВЕТЕРИНАРСКИ ТЕХНИЧАР","PodrucjeRadaID":"1"},{"id":"1553","naziv":"ВИНОГРАДАР - ВИНАР","PodrucjeRadaID":"1"},{"id":"534","naziv":"ВОЗАЧ МОТОРНИХ ВОЗИЛА","PodrucjeRadaID":"9"},{"id":"900083","naziv":"ВОЗОВОЂА","PodrucjeRadaID":"9"},{"id":"2151","naziv":"ГАЛАНТЕРИСТА","PodrucjeRadaID":"7"},{"id":"450","naziv":"ГЕОДЕТСКИ ТЕХНИЧАР – ГЕОМЕТАР","PodrucjeRadaID":"8"},{"id":"112","naziv":"ГЕОЛОШКИ ТЕХНИЧАР ЗА ГЕОТЕХНИКУ И ХИДРОГЕОЛОГИЈУ","PodrucjeRadaID":"3"},{"id":"113","naziv":"ГЕОЛОШКИ ТЕХНИЧАР ЗА ИСТРАЖИВАЊЕ МИНЕРАЛНИХ СИРОВИНА","PodrucjeRadaID":"3"},{"id":"635","naziv":"ГИНЕКОЛОШКО-АКУШЕРСКА СЕСТРА","PodrucjeRadaID":"14"},{"id":"619","naziv":"ГРАВЕР УМЕТНИЧКИХ ПРЕДМЕТА","PodrucjeRadaID":"13"},{"id":"2204","naziv":"ГРАЂЕВИНСКИ ТЕХНИЧАР","PodrucjeRadaID":"8"},{"id":"453","naziv":"ГРАЂЕВИНСКИ ТЕХНИЧАР ЗА ЛАБОРАТОРИЈСКА ИСПИТИВАЊА","PodrucjeRadaID":"8"},{"id":"452","naziv":"ГРАЂЕВИНСКИ ТЕХНИЧАР ЗА ХИДРОГРАДЊУ","PodrucjeRadaID":"8"},{"id":"628","naziv":"ГРНЧАР","PodrucjeRadaID":"13"},{"id":"466","naziv":"ДЕКОРАТЕР ЗИДНИХ ПОВРШИНА","PodrucjeRadaID":"8"},{"id":"624","naziv":"ДРВОРЕЗБАР","PodrucjeRadaID":"13"},{"id":"685","naziv":"ДРУШТВЕНО - ЈЕЗИЧКИ СМЕР","PodrucjeRadaID":"16"},{"id":"771","naziv":"ДРУШТВЕНО-ЈЕЗИЧКИ СМЕР - ИТАЛИЈАНСКИ","PodrucjeRadaID":"16"},{"id":"1599","naziv":"ДРУШТВЕНО-ЈЕЗИЧКИ СМЕР - НЕМАЧКИ","PodrucjeRadaID":"16"},{"id":"770","naziv":"ДРУШТВЕНО-ЈЕЗИЧКИ СМЕР - ФРАНЦУСКИ","PodrucjeRadaID":"16"},{"id":"587","naziv":"ЕКОНОМСКИ ТЕХНИЧАР","PodrucjeRadaID":"11"},{"id":"1613","naziv":"ЕЛЕКТРИЧАР","PodrucjeRadaID":"5"},{"id":"281","naziv":"ЕЛЕКТРОИНСТАЛАТЕР","PodrucjeRadaID":"5"},{"id":"283","naziv":"ЕЛЕКТРОМЕХАНИЧАР ЗА МАШИНЕ И ОПРЕМУ","PodrucjeRadaID":"5"},{"id":"282","naziv":"ЕЛЕКТРОМОНТЕР МРЕЖА И ПОСТРОЈЕЊА","PodrucjeRadaID":"5"},{"id":"277","naziv":"ЕЛЕКТРОТЕХНИЧАР АУТОМАТИКЕ","PodrucjeRadaID":"5"},{"id":"900018","naziv":"ЕЛЕКТРОТЕХНИЧАР ЕЛЕКТРОМОТОРНИХ ПОГОНА","PodrucjeRadaID":"5"},{"id":"272","naziv":"ЕЛЕКТРОТЕХНИЧАР ЕЛЕКТРОНИКЕ","PodrucjeRadaID":"5"},{"id":"267","naziv":"ЕЛЕКТРОТЕХНИЧАР ЕНЕРГЕТИКЕ","PodrucjeRadaID":"5"},{"id":"752","naziv":"ЕЛЕКТРОТЕХНИЧАР ЗА ЕЛЕКТРОНИКУ НА ВОЗИЛИМА","PodrucjeRadaID":"5"},{"id":"269","naziv":"ЕЛЕКТРОТЕХНИЧАР ЗА ТЕРМИЧКЕ И РАСХЛАДНЕ УРЕЂАЈЕ","PodrucjeRadaID":"5"},{"id":"2202","naziv":"ЕЛЕКТРОТЕХНИЧАР ИНФОРМАЦИОНИХ ТЕХНОЛОГИЈА","PodrucjeRadaID":"5"},{"id":"1543","naziv":"ЕЛЕКТРОТЕХНИЧАР МУЛТИМЕДИЈА","PodrucjeRadaID":"5"},{"id":"2148","naziv":"ЕЛЕКТРОТЕХНИЧАР ОБНОВЉИВИХ ИЗВОРА ЕНЕРГИЈЕ","PodrucjeRadaID":"5"},{"id":"1505","naziv":"ЕЛЕКТРОТЕХНИЧАР ПРОЦЕСНОГ УПРАВЉАЊА","PodrucjeRadaID":"5"},{"id":"278","naziv":"ЕЛЕКТРОТЕХНИЧАР РАЧУНАРА","PodrucjeRadaID":"5"},{"id":"276","naziv":"ЕЛЕКТРОТЕХНИЧАР ТЕЛЕКОМУНИКАЦИЈА","PodrucjeRadaID":"5"},{"id":"178","naziv":"ЗАВАРИВАЧ","PodrucjeRadaID":"4"},{"id":"734","naziv":"ЗДРАВСТВЕНИ НЕГОВАТЕЉ","PodrucjeRadaID":"14"},{"id":"714","naziv":"ЗООТЕХНИЧАР","PodrucjeRadaID":"1"},{"id":"640","naziv":"ЗУБНИ ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"455","naziv":"ИЗВОЂАЧ ИНСТАЛАТЕРСКИХ И ЗАВРШНИХ ГРАЂЕВИНСКИХ РАДОВА","PodrucjeRadaID":"8"},{"id":"2214","naziv":"ИЗРАЂИВАЧ ХЕМИЈСКИХ ПРОИЗВОДА","PodrucjeRadaID":"6"},{"id":"2227","naziv":"ИНДУСТРИЈСКИ КРОЈАЧ","PodrucjeRadaID":"7"},{"id":"1614","naziv":"ИНДУСТРИЈСКИ МЕХАНИЧАР","PodrucjeRadaID":"4"},{"id":"179","naziv":"ИНСТАЛАТЕР","PodrucjeRadaID":"4"},{"id":"620","naziv":"ЈУВЕЛИР УМЕТНИЧКИХ ПРЕДМЕТА","PodrucjeRadaID":"13"},{"id":"464","naziv":"КЕРАМИЧАР – ТЕРАЦЕР – ПЕЋАР","PodrucjeRadaID":"8"},{"id":"625","naziv":"КЛЕСАР","PodrucjeRadaID":"13"},{"id":"643","naziv":"КОЗМЕТИЧКИ ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"2030","naziv":"КОМЕРЦИЈАЛИСТА","PodrucjeRadaID":"11"},{"id":"536","naziv":"КОНДУКТЕР У ЖЕЛЕЗНИЧКОМ САОБРАЋАЈУ","PodrucjeRadaID":"9"},{"id":"617","naziv":"КОНЗЕРВАТОР КУЛТУРНИХ ДОБАРА","PodrucjeRadaID":"13"},{"id":"1557","naziv":"КОНЗЕРВАТОР КУЛТУРНИХ ДОБАРА - ПРЕПАРАТОР ЗИДНОГ И ШТАФЕЛАЈНОГ СЛИКАРСТВА","PodrucjeRadaID":"13"},{"id":"573","naziv":"КОНОБАР","PodrucjeRadaID":"10"},{"id":"574","naziv":"КУВАР","PodrucjeRadaID":"10"},{"id":"570","naziv":"КУЛИНАРСКИ ТЕХНИЧАР","PodrucjeRadaID":"10"},{"id":"642","naziv":"ЛАБОРАТОРИЈСКИ ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"1508","naziv":"ЛАКИРЕР","PodrucjeRadaID":"6"},{"id":"612","naziv":"ЛИКОВНИ ТЕХНИЧАР","PodrucjeRadaID":"13"},{"id":"761","naziv":"МАСЕР","PodrucjeRadaID":"14"},{"id":"180","naziv":"МАШИНБРАВАР","PodrucjeRadaID":"4"},{"id":"165","naziv":"МАШИНСКИ ТЕХНИЧАР ЗА КОМПЈУТЕРСКО КОНСТРУИСАЊЕ","PodrucjeRadaID":"4"},{"id":"1550","naziv":"МАШИНСКИ ТЕХНИЧАР ЗА РЕПАРАТУРУ","PodrucjeRadaID":"4"},{"id":"167","naziv":"МАШИНСКИ ТЕХНИЧАР МЕРНЕ И РЕГУЛАЦИОНЕ ТЕХНИКЕ","PodrucjeRadaID":"4"},{"id":"705","naziv":"МАШИНСКИ ТЕХНИЧАР МОТОРНИХ ВОЗИЛА","PodrucjeRadaID":"4"},{"id":"644","naziv":"МЕДИЦИНСКА СЕСТРА – ВАСПИТАЧ","PodrucjeRadaID":"14"},{"id":"633","naziv":"МЕДИЦИНСКА СЕСТРА – ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"12","naziv":"МЕСАР","PodrucjeRadaID":"1"},{"id":"604","naziv":"МЕТЕОРОЛОШКИ ТЕХНИЧАР","PodrucjeRadaID":"12"},{"id":"190","naziv":"МЕХАНИЧАР ГРЕЈНЕ И РАСХЛАДНЕ ТЕХНИКЕ","PodrucjeRadaID":"4"},{"id":"2147","naziv":"МЕХАНИЧАР МОТОРНИХ ВОЗИЛА","PodrucjeRadaID":"4"},{"id":"1663","naziv":"МЕХАНИЧАР ОПТИКЕ","PodrucjeRadaID":"4"},{"id":"184","naziv":"МЕХАНИЧАР ПРИВРЕДНЕ МЕХАНИЗАЦИЈЕ","PodrucjeRadaID":"4"},{"id":"400","naziv":"МЕХАНИЧАР ТЕКСТИЛНИХ МАШИНА","PodrucjeRadaID":"7"},{"id":"181","naziv":"МЕХАНИЧАР ХИДРАУЛИКЕ И ПНЕУМАТИКЕ","PodrucjeRadaID":"4"},{"id":"1584","naziv":"МЕХАТРОНИЧАР ЗА РАДАРСКЕ СИСТЕМЕ","PodrucjeRadaID":"4"},{"id":"1585","naziv":"МЕХАТРОНИЧАР ЗА РАКЕТНЕ СИСТЕМЕ","PodrucjeRadaID":"4"},{"id":"1515","naziv":"МОДЕЛАР ОДЕЋЕ","PodrucjeRadaID":"7"},{"id":"2052","naziv":"МОДНИ КРОЈАЧ","PodrucjeRadaID":"7"},{"id":"749","naziv":"МОНТЕР СУВЕ ГРАДЊЕ","PodrucjeRadaID":"8"},{"id":"286","naziv":"МОНТЕР ТЕЛЕКОМУНИКАЦИОНИХ МРЕЖА","PodrucjeRadaID":"5"},{"id":"773","naziv":"НАУТИЧКИ ТЕХНИЧАР – РЕЧНИ СМЕР","PodrucjeRadaID":"9"},{"id":"402","naziv":"ОБУЋАР","PodrucjeRadaID":"7"},{"id":"2143","naziv":"ОПЕРАТЕР ЗА ИЗРАДУ НАМЕШТАЈА","PodrucjeRadaID":"2"},{"id":"2153","naziv":"ОПЕРАТЕР ЗА ПРЕРАДУ МЕТАЛА","PodrucjeRadaID":"3"},{"id":"2018","naziv":"ОПЕРАТЕР МАШИНСКЕ ОБРАДЕ","PodrucjeRadaID":"4"},{"id":"2221","naziv":"ОПЕРАТЕР ОСНОВНИХ ГРАЂЕВИНСКИХ РАДОВА","PodrucjeRadaID":"8"},{"id":"2203","naziv":"ОПЕРАТЕР У ПРЕХРАМБЕНОЈ ИНДУСТРИЈИ","PodrucjeRadaID":"1"},{"id":"686","naziv":"ОПШТИ ТИП","PodrucjeRadaID":"16"},{"id":"1587","naziv":"ОПШТИ ТИП - ЕНГЛЕСКИ","PodrucjeRadaID":"16"},{"id":"1591","naziv":"ОПШТИ ТИП - ФРАНЦУСКИ","PodrucjeRadaID":"16"},{"id":"634","naziv":"ПЕДИЈАТРИЈСКА СЕСТРА – ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"900067","naziv":"ПЕДИКИР И МАНИКИР","PodrucjeRadaID":"15"},{"id":"15","naziv":"ПЕКАР","PodrucjeRadaID":"1"},{"id":"2234","naziv":"ПЛАСТИЧАР","PodrucjeRadaID":"6"},{"id":"1601","naziv":"ПОЉОПРИВРЕДНИ ПРОИЗВОЂАЧ","PodrucjeRadaID":"1"},{"id":"1","naziv":"ПОЉОПРИВРЕДНИ ТЕХНИЧАР","PodrucjeRadaID":"1"},{"id":"575","naziv":"ПОСЛАСТИЧАР","PodrucjeRadaID":"10"},{"id":"731","naziv":"ПОСЛОВНИ АДМИНИСТРАТОР","PodrucjeRadaID":"11"},{"id":"2224","naziv":"ПРАВНО - ПОСЛОВНИ ТЕХНИЧАР","PodrucjeRadaID":"11"},{"id":"13","naziv":"ПРЕРАЂИВАЧ МЛЕКА","PodrucjeRadaID":"1"},{"id":"4","naziv":"ПРЕХРАМБЕНИ ТЕХНИЧАР","PodrucjeRadaID":"1"},{"id":"900058","naziv":"ПРЕЦИЗНИ МЕХАНИЧАР","PodrucjeRadaID":"4"},{"id":"684","naziv":"ПРИРОДНО - МАТЕМАТИЧКИ СМЕР","PodrucjeRadaID":"16"},{"id":"1589","naziv":"ПРИРОДНО-МАТЕМАТИЧКИ СМЕР - ЕНГЛЕСКИ","PodrucjeRadaID":"16"},{"id":"1588","naziv":"ПРИРОДНО-МАТЕМАТИЧКИ СМЕР - НЕМАЦКИ","PodrucjeRadaID":"16"},{"id":"2144","naziv":"ПРИРОДНО-МАТЕМАТИЧКИ СМЕР - РУСКИ","PodrucjeRadaID":"16"},{"id":"1507","naziv":"ПРИРОДНО-МАТЕМАТИЧКИ СМЕР - ФРАНЦУСКИ","PodrucjeRadaID":"16"},{"id":"900078","naziv":"ПРОИЗВОЂАЧ ПРЕХРАМБЕНИХ ПРОИЗВОДА","PodrucjeRadaID":"1"},{"id":"115","naziv":"РУДАРСКИ ТЕХНИЧАР","PodrucjeRadaID":"3"},{"id":"11","naziv":"РУКОВАЛАЦ - МЕХАНИЧАР ПОЉОПРИВРЕДНЕ ТЕХНИКЕ","PodrucjeRadaID":"1"},{"id":"469","naziv":"РУКОВАЛАЦ ГРАЂЕВИНСКОМ МЕХАНИЗАЦИЈОМ","PodrucjeRadaID":"8"},{"id":"120","naziv":"РУКОВАЛАЦ МЕХАНИЗАЦИЈОМ У ПОВРШИНСКОЈ ЕКСПЛОАТАЦИЈИ","PodrucjeRadaID":"3"},{"id":"1600","naziv":"РУКОВАЛАЦ ПОСТРОЈЕЊИМА ЗА ДОБИЈАЊЕ НАФТЕ И ГАСА","PodrucjeRadaID":"3"},{"id":"1651","naziv":"РУКОВАЛАЦ СРЕДСТВИМА УНУТРАШЊЕГ ТРАНСПОРТА","PodrucjeRadaID":"9"},{"id":"636","naziv":"САНИТАРНО-ЕКОЛОШКИ ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"522","naziv":"САОБРАЋАЈНО-ТРАНСПОРТНИ ТЕХНИЧАР","PodrucjeRadaID":"9"},{"id":"3021","naziv":"СЕРВИСЕР ТЕРМИЧКИХ И РАСХЛАДНИХ УРЕЂАЈА","PodrucjeRadaID":"5"},{"id":"333","naziv":"СИТОШТАМПАР","PodrucjeRadaID":"6"},{"id":"2071","naziv":"СЛУЖБЕНИК У БАНКАРСТВУ И ОСИГУРАЊУ","PodrucjeRadaID":"11"},{"id":"626","naziv":"СТИЛСКИ КРОЈАЧ","PodrucjeRadaID":"13"},{"id":"67","naziv":"СТОЛАР","PodrucjeRadaID":"2"},{"id":"639","naziv":"СТОМАТОЛОШКА СЕСТРА – ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"673","naziv":"СЦЕНСКИ МАСКЕР – ВЛАСУЉАР","PodrucjeRadaID":"15"},{"id":"1533","naziv":"ТАПЕТАР – ДЕКОРАТЕР","PodrucjeRadaID":"2"},{"id":"900094","naziv":"ТЕКСТИЛНИ РАДНИК","PodrucjeRadaID":"7"},{"id":"393","naziv":"ТЕКСТИЛНИ ТЕХНИЧАР","PodrucjeRadaID":"7"},{"id":"1546","naziv":"ТЕХНИЧАР ВАЗДУШНОГ САОБРАЋАЈА","PodrucjeRadaID":"9"},{"id":"2235","naziv":"ТЕХНИЧАР ВАЗДУШНОГ САОБРАЋАЈА - ЕНГЛЕСКИ","PodrucjeRadaID":"9"},{"id":"1547","naziv":"ТЕХНИЧАР ВАЗДУШНОГ САОБРАЋАЈА ЗА БЕЗБЕДНОСТ","PodrucjeRadaID":"9"},{"id":"1548","naziv":"ТЕХНИЧАР ВАЗДУШНОГ САОБРАЋАЈА ЗА СПАСАВАЊЕ","PodrucjeRadaID":"9"},{"id":"523","naziv":"ТЕХНИЧАР ВУЧЕ","PodrucjeRadaID":"9"},{"id":"324","naziv":"ТЕХНИЧАР ГРАФИЧКЕ ДОРАДЕ","PodrucjeRadaID":"6"},{"id":"2212","naziv":"ТЕХНИЧАР ГРЕЈАЊА И КЛИМАТИЗАЦИЈЕ","PodrucjeRadaID":"4"},{"id":"613","naziv":"ТЕХНИЧАР ДИЗАЈНА АМБАЛАЖЕ","PodrucjeRadaID":"13"},{"id":"615","naziv":"ТЕХНИЧАР ДИЗАЈНА ГРАФИКЕ","PodrucjeRadaID":"13"},{"id":"616","naziv":"ТЕХНИЧАР ДИЗАЈНА ЕНТЕРИЈЕРА И ИНДУСТРИЈСКИХ ПРОИЗВОДА","PodrucjeRadaID":"13"},{"id":"2054","naziv":"ТЕХНИЧАР ДИЗАЈНА ОДЕЋЕ","PodrucjeRadaID":"7"},{"id":"2070","naziv":"ТЕХНИЧАР ДИЗАЈНА ПРОИЗВОДА ОД КОЖЕ","PodrucjeRadaID":"7"},{"id":"614","naziv":"ТЕХНИЧАР ДИЗАЈНА ТЕКСТИЛА","PodrucjeRadaID":"13"},{"id":"2069","naziv":"ТЕХНИЧАР ДИЗАЈНА ТЕКСТИЛНИХ МАТЕРИЈАЛА","PodrucjeRadaID":"7"},{"id":"518","naziv":"ТЕХНИЧАР ДРУМСКОГ САОБРАЋАЈА","PodrucjeRadaID":"9"},{"id":"2230","naziv":"ТЕХНИЧАР ЗА БЕЗБЕДНОСТ ИНФОРМАЦИОНО-КОМУНИКАЦИОНИХ СИСТЕМА У ВАЗДУШНОМ САОБРАЋАЈУ","PodrucjeRadaID":"9"},{"id":"5","naziv":"ТЕХНИЧАР ЗА БИОТЕХНОЛОГИЈУ","PodrucjeRadaID":"1"},{"id":"1604","naziv":"ТЕХНИЧАР ЗА ГРАФИЧКУ ПРИПРЕМУ","PodrucjeRadaID":"6"},{"id":"2223","naziv":"ТЕХНИЧАР ЗА ДИГИТАЛНУ ГРАФИКУ И ИНТЕРНЕТ ОБЛИКОВАЊЕ","PodrucjeRadaID":"6"},{"id":"1501","naziv":"ТЕХНИЧАР ЗА ЗАШТИТУ ЖИВОТНЕ СРЕДИНЕ","PodrucjeRadaID":"6"},{"id":"2200","naziv":"ТЕХНИЧАР ЗА КОМПЈУТЕРСКО УПРАВЉАЊЕ (ЦНЦ) МАШИНА","PodrucjeRadaID":"4"},{"id":"3044","naziv":"ТЕХНИЧАР ЗА КОНТРОЛУ У МЕТАЛУРГИЈИ","PodrucjeRadaID":"3"},{"id":"2209","naziv":"ТЕХНИЧАР ЗА ЛОВСТВО И РИБАРСТВО","PodrucjeRadaID":"2"},{"id":"2152","naziv":"ТЕХНИЧАР ЗА ЛОГИСТИКУ И ШПЕДИЦИЈУ","PodrucjeRadaID":"9"},{"id":"1608","naziv":"ТЕХНИЧАР ЗА ОБЛИКОВАЊЕ ГРАФИЧКИХ ПРОИЗВОДА","PodrucjeRadaID":"6"},{"id":"1504","naziv":"ТЕХНИЧАР ЗА ОБЛИКОВАЊЕ НАМЕШТАЈА И ЕНТЕРИЈЕРА","PodrucjeRadaID":"2"},{"id":"60","naziv":"ТЕХНИЧАР ЗА ПЕЈЗАЖНУ АРХИТЕКТУРУ","PodrucjeRadaID":"2"},{"id":"310","naziv":"ТЕХНИЧАР ЗА ПОЛИМЕРЕ","PodrucjeRadaID":"6"},{"id":"2219","naziv":"ТЕХНИЧАР ЗА ПРЕРАДУ НАФТЕ И ГАСА","PodrucjeRadaID":"6"},{"id":"1578","naziv":"ТЕХНИЧАР ЗА РЕЦИКЛАЖУ","PodrucjeRadaID":"3"},{"id":"170","naziv":"ТЕХНИЧАР ЗА РОБОТИКУ","PodrucjeRadaID":"4"},{"id":"2225","naziv":"ТЕХНИЧАР ЗА ХЕМИЈСКУ И ФАРМАЦЕУТСКУ ТЕХНОЛОГИЈУ","PodrucjeRadaID":"6"},{"id":"593","naziv":"ТЕХНИЧАР ЗАШТИТЕ ОД ПОЖАРА","PodrucjeRadaID":"11"},{"id":"161","naziv":"ТЕХНИЧАР МАШИНСКЕ ЕНЕРГЕТИКЕ","PodrucjeRadaID":"4"},{"id":"1530","naziv":"ТЕХНИЧАР МЕХАТРОНИКЕ","PodrucjeRadaID":"5"},{"id":"397","naziv":"ТЕХНИЧАР МОДЕЛАР КОЖЕ","PodrucjeRadaID":"7"},{"id":"592","naziv":"ТЕХНИЧАР ОБЕЗБЕЂЕЊА","PodrucjeRadaID":"11"},{"id":"716","naziv":"ТЕХНИЧАР ОПТИКЕ","PodrucjeRadaID":"4"},{"id":"2","naziv":"ТЕХНИЧАР ПОЉОПРИВРЕДНЕ ТЕХНИКЕ","PodrucjeRadaID":"1"},{"id":"529","naziv":"ТЕХНИЧАР ПТТ САОБРАЋАЈА","PodrucjeRadaID":"9"},{"id":"530","naziv":"ТЕХНИЧАР УНУТРАШЊЕГ ТРАНСПОРТА","PodrucjeRadaID":"9"},{"id":"715","naziv":"ТЕХНИЧАР ХОРТИКУЛТУРЕ","PodrucjeRadaID":"1"},{"id":"323","naziv":"ТЕХНИЧАР ШТАМПЕ","PodrucjeRadaID":"6"},{"id":"525","naziv":"ТРАНСПОРТНИ КОМЕРЦИЈАЛИСТА","PodrucjeRadaID":"9"},{"id":"572","naziv":"ТРГОВАЦ","PodrucjeRadaID":"10"},{"id":"567","naziv":"ТРГОВИНСКИ ТЕХНИЧАР","PodrucjeRadaID":"10"},{"id":"2201","naziv":"ТУРИСТИЧКО-ХОТЕЛИЈЕРСКИ ТЕХНИЧАР","PodrucjeRadaID":"10"},{"id":"569","naziv":"УГОСТИТЕЉСКИ ТЕХНИЧАР","PodrucjeRadaID":"10"},{"id":"2106","naziv":"УЗГАЈИВАЧ СПОРТСКИХ КОЊА","PodrucjeRadaID":"1"},{"id":"2228","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА БИОЛОГИЈУ И ХЕМИЈУ","PodrucjeRadaID":"16"},{"id":"3039","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ГЕОГРАФИЈУ И ИСТОРИЈУ","PodrucjeRadaID":"16"},{"id":"687","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА МАТЕМАТИКУ","PodrucjeRadaID":"16"},{"id":"2149","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА РАЧУНАРСТВО И ИНФОРМАТИКУ","PodrucjeRadaID":"16"},{"id":"3043","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА СПОРТ","PodrucjeRadaID":"16"},{"id":"3040","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА СЦЕНСКЕ И АУДИО - ВИЗУЕЛНЕ УМЕТНОСТИ","PodrucjeRadaID":"16"},{"id":"765","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЗИКУ","PodrucjeRadaID":"16"},{"id":"2135","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - ЕНГЛЕСКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"2139","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - ИТАЛИЈАНСКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"2141","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - ЈАПАНСКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"2142","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - КИНЕСКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"737","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - КЛАСИЧНИ ЈЕЗИЦИ","PodrucjeRadaID":"16"},{"id":"2138","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - НЕМАЧКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"2206","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - НОРВЕШКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"2137","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - РУСКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"2136","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - ФРАНЦУСКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"2140","naziv":"УЧЕНИЦИ СА ПОСЕБНИМ СПОСОБНОСТИМА ЗА ФИЛОЛОШКЕ НАУКЕ - ШПАНСКИ ЈЕЗИК","PodrucjeRadaID":"16"},{"id":"641","naziv":"ФАРМАЦЕУТСКИ ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"2155","naziv":"ФАРМАЦЕУТСКИ ТЕХНИЧАР - ЕНГЛЕСКИ","PodrucjeRadaID":"14"},{"id":"637","naziv":"ФИЗИОТЕРАПЕУТСКИ ТЕХНИЧАР","PodrucjeRadaID":"14"},{"id":"766","naziv":"ФИНАНСИЈСКИ АДМИНИСТРАТОР","PodrucjeRadaID":"11"},{"id":"588","naziv":"ФИНАНСИЈСКИ ТЕХНИЧАР","PodrucjeRadaID":"11"},{"id":"627","naziv":"ФИРМОПИСАЦ КАЛИГРАФ","PodrucjeRadaID":"13"},{"id":"318","naziv":"ФОТОГРАФ","PodrucjeRadaID":"6"},{"id":"3042","naziv":"ФРИЗЕР","PodrucjeRadaID":"15"},{"id":"309","naziv":"ХЕМИЈСКИ ЛАБОРАНТ","PodrucjeRadaID":"6"},{"id":"308","naziv":"ХЕМИЈСКО-ТЕХНОЛОШКИ ТЕХНИЧАР","PodrucjeRadaID":"6"},{"id":"603","naziv":"ХИДРОЛОШКИ ТЕХНИЧАР","PodrucjeRadaID":"12"},{"id":"1615","naziv":"ЦАРИНСКИ ТЕХНИЧАР","PodrucjeRadaID":"11"},{"id":"9","naziv":"ЦВЕЋАР – ВРТЛАР","PodrucjeRadaID":"1"},{"id":"900128","naziv":"ШУМАР","PodrucjeRadaID":"2"},{"id":"59","naziv":"ШУМАРСКИ ТЕХНИЧАР","PodrucjeRadaID":"2"}];
+            var jezici = [{"id":"1","naziv":"Српски"},{"id":"2","naziv":"Мађарски"},{"id":"3","naziv":"Румунски"},{"id":"4","naziv":"Русински"},{"id":"5","naziv":"Словачки"},{"id":"6","naziv":"Албански"},{"id":"7","naziv":"Турски"},{"id":"8","naziv":"Бугарски"},{"id":"9","naziv":"Хрватски"},{"id":"10","naziv":"Српско-Мађарски"},{"id":"11","naziv":"Српско-Енглески"},{"id":"12","naziv":"Српско-Француски"},{"id":"13","naziv":"Српско-Руски"},{"id":"14","naziv":"Српско-Немачки"},{"id":"15","naziv":"Српско-Италијански"},{"id":"16","naziv":"Босански"}];
+
+            $(function () {
+                if($('.Status1').length > 0) { $('[dbf="IDOkrug"], [dbf="IDOpstina"], [dbf="IDSkola"], [dbf="PodrucjeRadaID"], [dbf="ObrazovniProfilID"], [dbf="IDJezik"], [dbf="Popunjen"], [dbf="sortiranje1"], [dbf="sortiranje2"]').find('option.Status1Invisible').remove();}
+                else if ($('.Status2').length > 0) { $('[dbf="IDOkrug"], [dbf="IDOpstina"], [dbf="IDSkola"],  [dbf="PodrucjeRadaID"], [dbf="ObrazovniProfilID"], [dbf="IDJezik"], [dbf="Popunjen"], [dbf="sortiranje1"], [dbf="sortiranje2"]').find('option.Status2Invisible').remove();}
+
+                $('[dbf="IDOkrug"]').initSelect(okruzi, false);
+                $(' [dbf="IDOpstina"]').initSelect(opstine.filtriraj("IDOkrug", detalji[0].IDOkrug), false);
+                $(' [dbf="IDSkola"]').initSelect(skolee, false);
+                $(' [dbf="IDJezik"]').initSelect(jezici, false);
+                $('[dbf="PodrucjeRadaID"]').initSelect(podrucjerada, false);
+                $('[dbf="ObrazovniProfilID"]').initSelect(profil.filtriraj("PodrucjeRadaID", detalji[0].IDPodrucjeRada), false);
+                detalji[0].Popunjen = '-1';
+                $('.Srednja').initDBFsByObject(detalji[0]);
+                popuniDual(detalji[0]);
+                $(' [dbf="IDOpstina"], [dbf="IDSkola"], [dbf="ObrazovniProfilID"]').disable(false);
+
+                $('.meni.bt3').addClass('aktivan');
+                $( "body, html" ).animate({scrollTop: $(".SrednjaPod").offset().top -80}, 600, 'swing');
+            });
+
+            function proveriSelekte() {
+                var okr = $(' [dbf="IDOkrug"] select').val();
+                var pod = $(' [dbf="PodrucjeRadaID"] select').val();
+                var jez = $(' [dbf="IDJezik"] select').val();
+                var pop = $(' [dbf="Popunjen"] select').val();
+                if(okr == "-1" && pod == "-1" && jez == "-1" && pop == "-1") {return true;}
+                else {return false;}
+          
+            }
+
+            function popuniDual(obj) {
+                if (obj != null && obj.Dual != null && (obj.Dual.toLowerCase() == "true" || obj.Dual == "1")) {
+
+                    $('.Napomena.DualVisible').addClass("Dual");
+
+                }
+            }
+
+            function IzaberiOkrug(el) {
+                var okrug = el.val();
+                if(okrug != "-1") {
+                    var filteropstine = opstine.filtriraj('IDOkrug', okrug);
+
+                    $(' [dbf="IDOpstina"] option[value]:not(option[value="-1"])').remove();
+                    $(' [dbf="IDOpstina"]').initSelect(filteropstine, false);
+                    $(' [dbf="IDOpstina"]').disable(false);
+                   
+                }
+                else { $(' [dbf="IDOpstina"] select').val(-1); $(' [dbf="IDOpstina"]').disable(true); }
+                $(' [dbf="IDSkola"] option[value]:not(option[value="-1"])').remove();
+                $(' [dbf="IDSkola"]').disable(true);
+            }
+
+
+            function IzaberiOpstinu(el) {
+                var podatak = {};
+                var idopstine = el.val();
+                if(idopstine != "-1") { 
+                    podatak.IDOpstina = idopstine;
+                    ajaxPost({"vrati_skole" : podatak, "skola_call" : 1}, function(result) {
+            
+              
+                        var skole = JSON.parse(result);
+                        $(' [dbf="IDSkola"] option[value]:not(option[value="-1"])').remove();
+                        $(' [dbf="IDSkola"]').initSelect(skole, false);
+                        $(' [dbf="IDSkola"]').disable(false);
+                       
+
+                    })
+                }
+                else {  $(' [dbf="IDSkola"] select').val(-1); $(' [dbf="IDSkola"]').disable(true); }
+            }
+
+         
+            function IzaberiPodrucjeRada(el) {
+                var rad = el.val();
+                if(rad != "-1") {
+                    var filterprofil = profil.filtriraj('PodrucjeRadaID', rad);
+
+                    $(' [dbf="ObrazovniProfilID"] option[value]:not(option[value="-1"])').remove();
+                    $(' [dbf="ObrazovniProfilID"]').initSelect(filterprofil, false);
+                    $(' [dbf="ObrazovniProfilID"]').disable(false);
+                   
+                }
+                else { $(' [dbf="ObrazovniProfilID"] select').val(-1); $(' [dbf="ObrazovniProfilID"]').disable(true); }
+            }
+
+
+            function IspisiDetalje() {
+                if($('.SredPretraga').validacija() ) {
+
+                    var IDOkrug = lpad($(':dbf(IDOkrug) select').val(),2);
+                    var IDOpstina = lpad($(':dbf(IDOpstina) select').val(),3);
+                    var IDSkola = lpad($(':dbf(IDSkola) select').val(),3);
+                    var PodrucjeRadaID = lpad($(':dbf(PodrucjeRadaID) select').val(),2);
+                    var ObrazovniProfilID = lpad($(':dbf(ObrazovniProfilID) select').val(),4);
+                    var IDJezik = lpad($(':dbf(IDJezik) select').val(), 2);
+                    var Popunjen = lpad($(':dbf(Popunjen) select').val().replace(',',''), 2);
+             
+                    window.location = "/Srednje-skole-pretraga/" + IDOkrug  + IDOpstina  + IDSkola  + PodrucjeRadaID  + ObrazovniProfilID + IDJezik + Popunjen;
+                }
+            }
+
+            function lpad(value, padding) {
+                if (value == "-1") value = 0;
+                if (value == null) value = 0;
+                var zeroes = new Array(padding + 1).join("0");
+                return (zeroes + value).slice(-padding);
+            }
+
+            function sortirajgrid(el) {
+                var sortir = el.parents().filter('.SelectFilter').find(':dbf(sortiranje1) select').val() + el.parents().filter('.SelectFilter').find(':dbf(sortiranje2) select').val();
+                if(el.parents().filter('.SelectFilter').find(':dbf(sortiranje1) select').val() == "") {sortir = "";}
+                $('[idgrid]:visible').find('.hid_sort').val(sortir);
+                grid_refresh( $('[idgrid]:visible'));
+        
+            }
+    </script>
+
+
+            <div class="twelve footer bgd5" id="sc6">
+                <p class="Status1Invisible">Ministarstvo prosvete, nauke i tehnološkog razvoja | Tehnička podrška <a href="../../../www.eonsystem.com/index.html">Evolution Online - EON d.o.o</a></p>
+                <p class="Status2Invisible">Министарство просвете, науке и технолошког развоја | Техничка подршка <a href="../../../www.eonsystem.com/index.html">Evolution Online - EON d.o.o</a></p>
+            </div>
+        </div>
+
+    </form>
+    
+
+    
+
+
+    <div id="funkcije_za_validaciju">
+        
+
+    </div>
+
+
+    <div class="invisible modal_container" >
+        <form id="form2" enctype="multipart/form-data" method="post" class="form_modal">
+            <div class="modal_inner_container relative">
+                <div class="modal-bg modal-ready"></div>
+                <div class="modal-wrap modal-auto-cursor modal-ready" tabindex="-1" >
+                    <div class="modal-container modal-s-ready modal-inline-holder">
+                        <div class="modal-content">
+                            <div class="uc_loading">
+                                <div class="loading"><div class="loading_img"><img src="../../images/loading.gif" /></div></div>
+                                <div class="loading_text"><label></label></div>
+                            </div>
+                            <div class="uc_container"></div>
+                            <button title="Close (Esc)" type="button" class="modal-close">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div id="error_poruke_container_1" class="error_poruke_container">
+        <script>
+            var error_poruke = { polje_obavezno: "Поље је обавезно", neocekivani_format: "Поље није у очекиваном формату" };
+        </script>
+    </div>
+    
+
+      <script>
+          $(function ()
+          {
+              if (navigator.userAgent.indexOf('Mac OS X') != -1) { $('body').addClass('mac'); } else { $('body').addClass('pc') };
+              var ua = navigator.userAgent.toLowerCase();
+              var isAndroid = ua.indexOf("android") > -1; if (isAndroid) { $('body').addClass('android'); }
+
+              $('.header .meni a:not(.txtright a)').click(function () {
+                  $('.meni').removeClass('aktivan');
+
+                  $(this).parents().filter('.meni').addClass('aktivan');  
+              });
+
+              initErrorMessages();
+
+              $('.mobilenavbutton').click(function () {
+                  $('.mobilenavopen').addClass('aktivan'),
+                  $('body').addClass('noscroll');
+              });
+              $('#closenavigation').click(function () {
+                  $('.mobilenavopen').removeClass('aktivan'),
+                  $('body').removeClass('noscroll');
+              });
+
+              
+
+          });
+
+          function initErrorMessages() {
+
+              app.Config.ErrorPoruke = error_poruke;
+              $('.Status1 [err_obavezno_polje_poruka2], .Status1 [los_regex_format2]').removeAttr('err_obavezno_polje_poruka2').removeAttr('los_regex_format2');
+              $('.Status2 [err_obavezno_polje_poruka1], .Status2 [los_regex_format1]').removeAttr('err_obavezno_polje_poruka1').removeAttr('los_regex_format1');
+
+              $('.Status1 [err_obavezno_polje_poruka1]').each(function () {
+                  $(this).attr('err_obavezno_polje_poruka', $(this).attr('err_obavezno_polje_poruka1')).removeAttr('err_obavezno_polje_poruka1');
+              });
+              $('.Status2 [err_obavezno_polje_poruka2]').each(function () {
+                  $(this).attr('err_obavezno_polje_poruka', $(this).attr('err_obavezno_polje_poruka2')).removeAttr('err_obavezno_polje_poruka2');
+              });
+
+              $('.Status1 [los_regex_format1]').each(function () {
+                  $(this).attr('los_regex_format', $(this).attr('los_regex_format1')).removeAttr('los_regex_format1');
+              });
+              $('.Status2 [los_regex_format2]').each(function () {
+                  $(this).attr('los_regex_format', $(this).attr('los_regex_format2')).removeAttr('los_regex_format2');
+              });
+
+
+          }
+          function lpad(value, padding) {
+              if (value == "-1") value = 0;
+              if (value == null) value = 0;
+              var zeroes = new Array(padding + 1).join("0");
+              return (zeroes + value).slice(-padding);
+          }
+        </script>   
+
+</body>
+
+<!-- Mirrored from upis.mpn.gov.rs/Cir/Srednje-skole/KPKK-SC-4O13S by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 27 Nov 2020 14:09:45 GMT -->
+</html>
